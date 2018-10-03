@@ -1,1 +1,1 @@
-# TelosDocs-en-zh
+# Telos文档中英文翻译
