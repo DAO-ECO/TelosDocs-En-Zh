@@ -45,6 +45,6 @@ Telos中文翻译组的工作平台为：**github.com + crowdin.com**
 
 ## 4. 翻译组奖励
 
-翻译贡献者根据Crowdin中的翻译记录，自行在Telos Slicing Pie系统上登记贡献。
+翻译贡献者基于Crowdin的翻译记录，自行评估花费时间，并在Telos Slicing Pie系统上登记贡献。
 
 Slicing Pie app: <https://telos-slicing-pie.eosdetroit.io/user/sign-in>
