@@ -6,15 +6,15 @@
 
 ## 2. 法律选择
 
-Any person or entity who uses the Telos Blockchain Network to store, exchange, or process value or information shall be herein referred to as a "Member." Each Member agrees to be bound exclusively by the terms of this Agreement or the most current Telos Blockchain Network Operating Agreement ratified or amended in accordance with the terms herein, and to select the terms of the current Agreement at the time of the transaction as binding in the interactions between them regarding any and all value and information stored on the Telos blockchain. It is the responsibility of each Member to abide by their local terrestrial laws and statutes.
+任何使用Telos区块链网络存储、交换或处理价值或信息的个人或实体在本协议中称为“成员”。各成员同意仅受本协议条款或根据本协议条款批准或修订的最新Telos区块链网络运营协议的约束，并在交易时选择当前协议的条款作为它们之间关于存储在Telos区块链上的任何价值及信息交互的约束。 每个成员都有责任遵守当地的法律和法规。
 
-## 3. Recording of Values and Information
+## 3. 价值和信息的记录
 
-The Telos blockchain shall be used to record value and information and to perform computations pertaining to these. This information shall be recorded in a continuous chain of blocks of transactions and cryptographic security information ("Blocks") which are tested and validated by computer nodes on the network ("Validating Nodes").
+Telos区块链将会用来记录价值和信息，并执行与这些相关的计算。 这些信息会记录在连续的区块和加密安全信息中，这些信息由网络上的计算机节点测试和验证。
 
 ## 4. Accounts
 
-Each Member may control one or more accounts on the blockchain. Accounts record the ownership of various tokens and resources and are controlled by cryptographic keys. Accounts may publish smart contracts including contracts that issue new tokens.
+每个成员可以控制区块链上的一个或多个帐户。 Accounts record the ownership of various tokens and resources and are controlled by cryptographic keys. Accounts may publish smart contracts including contracts that issue new tokens.
 
 ## 5. Native Unit of Value
 
