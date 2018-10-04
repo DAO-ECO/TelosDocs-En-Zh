@@ -18,7 +18,7 @@ Telos区块链将会用来记录价值和信息，并执行与这些相关的计
 
 ## 5. 本地价值单位
 
-The native unit of value on the Telos blockchain shall be the TLOS token. Each TLOS token shall represent a percentage of the usage of the Telos blockchain shared resources in direct relation to the total number of TLOS tokens that are recorded on the blockchain. As a pro rata percentage of shared resource usage rights, each TLOS token shall entitle the account holding it to proportional voting rights and use of the Telos blockchain's operational computer resources.
+在Telos区块链上的本地价值单位为 TLOS 令牌。 Each TLOS token shall represent a percentage of the usage of the Telos blockchain shared resources in direct relation to the total number of TLOS tokens that are recorded on the blockchain. As a pro rata percentage of shared resource usage rights, each TLOS token shall entitle the account holding it to proportional voting rights and use of the Telos blockchain's operational computer resources.
 
 ## 6. Operation and Execution of the Blockchain
 
