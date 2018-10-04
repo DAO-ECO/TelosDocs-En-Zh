@@ -1,6 +1,6 @@
-# Telos Blockchain Network Operating Agreement (TBNOA)
+# Telos区块链网络运行协议(TBNOA)
 
-## 1.Preamble
+## 1.序言
 
 This document is intended to set common agreements among all users of the Telos Blockchain Network in order to establish a secure, stable, and governable blockchain where value and information can be stored and all disputes shall be arbitrated solely using the methods described herein and within the "Telos Governance Documents" comprised of this Agreement, the Telos Blockchain Network Arbitration Rules and Procedures, the Telos "regproducer" contract human language terms, the Telos "regarb" contract human language terms, the Telos Block Producer Minimum Requirements, the Telos Arbitrator Minimum Requirements and Telos Blockchain Network Data Protection Policy. The Telos Blockchain network is comprised of Members (as defined below) who have chosen to organize themselves using a computer blockchain as a form of transnational exchange of value, information, and commerce. This network has agreed to govern the Telos blockchain, its transactions and native token by means of this Telos Blockchain Network Operating Agreement (this "Agreement") which enumerates a set of mutual representations and agreements amongst its users.
 
