@@ -2,7 +2,7 @@
 
 ## 1.序言
 
-本文的目的是在所有Telos区块链网络用户之间建立共同的协议, 以便实现一个安全、稳定和可控的区块链,。在这里价值和信息可以被存储, 所有争端都只需要使用本文和“Telos治理文档”中所述的方法而得到仲裁.它包括本协议,Telos区块链网络仲裁规则和过程, Telos"regproducer"合同人类语言术语, Telos"regarb"合同人类语言术语,Telos区块生产者最低要求, Telos仲裁员最低要求和Telos区块链网络的数据保护政策。 Telos区块链网络由一群选择使用区块链作为一种价值、信息和商业的跨国交换形式来组织自己的成员们组成。 Telos网络已同意通过Telos区块链网络运行协议(本“协议”)来管理Telos区块链、交易和本地通证，该协议列举了一套用户之间相互代理和协议的集合。
+本文的目的是在所有Telos区块链网络用户之间建立共同的协议, 以便实现一个安全、稳定和可控的区块链。在这里价值和信息可以被存储, 所有争端都只需要使用本文和“Telos治理文档”中所述的方法而得到仲裁.它包括本协议,Telos区块链网络仲裁规则和过程, Telos"regproducer"合同人类语言术语, Telos"regarb"合同人类语言术语,Telos区块生产者最低要求, Telos仲裁员最低要求和Telos区块链网络的数据保护政策。 Telos区块链网络由一群选择使用区块链作为一种价值、信息和商业的跨国交换形式来组织自己的成员们组成。 Telos网络已同意通过Telos区块链网络运行协议(本“协议”)来管理Telos区块链、交易和本地通证，该协议列举了一套用户之间相互代理和协议的集合。
 
 ## 2. 法律选择
 
@@ -28,7 +28,7 @@ Telos区块链中的价值和交易记录使用委托股份证明机制达成共
 
 只有当区块生产者就包含它们的区块的有效性达成最终一致意见时，Telos区块链上的交易才不可逆。 一旦2/3 的区块生产者提出了一个区块是有效的, 一个额外的区块生产者接受了提议的有效区块, 那么它应被视为一个“不可撤销的区块”。Telos区块链将永远不会修改任何不可撤销的区块。 对区块链的修改只能通过拒绝尚未被接受为不可撤销的区块以及在当前区块中添加新信息来完成。
 
-## 8. Block Producer Nomination, Qualification, and Election
+## 8. 区块生产者提名、资格和选举
 
 Any Telos Member may self-nominate as a candidate to be a Block Producer by executing the "regproducer" contract and accepting its human-language terms. The Telos blockchain maintains a list of minimum requirements for acting as a Block Producer or Standby Block Producers (the "Block Producer Minimum Requirements"). The 21 block producer candidates currently in compliance with the Block Producer Minimum Requirements receiving the highest weight of Member votes shall serve as Block Producers. The 30 block producer candidates currently in compliance with the Block Producer Minimum Requirements and not serving as Block Producers receiving the highest weight of Member votes shall serve as Standby Block Producers. Enforcement of compliance with the Block Producer Minimum Requirements shall be by the "enforcebpmins" contract.
 
