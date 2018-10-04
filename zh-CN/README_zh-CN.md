@@ -43,6 +43,7 @@ Telos中文翻译组的工作平台为：**github.com + crowdin.com**
 |       Eset       |    EOS OU     |          eosou@qq.com           |     No      |     Junior      |     中文     |
 |     Kloud Wu     | Telos Canton  |     kloud.wu@teloscanton.io     |     No      |   Journeyman    | 中文/English |
 | Michael Oliphant | Telos Canton  | michael.oliphant@teloscanton.io |     No      |     Senior      |  English   |
+|      Thlon       |  Independent  |       13362209563@163.com       |     No      |     Junior      |     中文     |
 
 ## 4. 翻译组奖励
 
