@@ -43,7 +43,7 @@ TLG member's are expected to track time spent towards accomplishing these tasks,
 ## **Additional Resources:**
 
 - Telos Foundation website: <http://www.telosfoundation.io>
-- Telos white paper: 
+- Telos white paper: [https://resources.telosfoundation.io/wp_master/telos_white_paper_english.pdf](https://resources.telosfoundation.io/wp_master/telos_white_paper_english.pdf)
 - Telos Testnet: <http://testnet.telosfoundation.io>
 - TLG Teamup Calendar: https://teamup.com/ksvocfurb37qf8k5xr
 - TLG onboarding form: <https://goo.gl/forms/WshtJ2gZ31f3uLv63>
