@@ -12,11 +12,11 @@
 
 Telos区块链将会用来记录价值和信息，并执行与这些相关的计算。 这些信息会记录在连续的区块和加密安全信息中，这些信息由网络上的计算机节点测试和验证。
 
-## 4. Accounts
+## 4. 帐户
 
-每个成员可以控制区块链上的一个或多个帐户。 Accounts record the ownership of various tokens and resources and are controlled by cryptographic keys. Accounts may publish smart contracts including contracts that issue new tokens.
+每个成员可以控制区块链上的一个或多个帐户。 帐户记录各种通证和资源的所有权, 并由密钥控制。 帐户可以发布智能合约, 包括发行新通证的合约。
 
-## 5. Native Unit of Value
+## 5. 本地价值单位
 
 The native unit of value on the Telos blockchain shall be the TLOS token. Each TLOS token shall represent a percentage of the usage of the Telos blockchain shared resources in direct relation to the total number of TLOS tokens that are recorded on the blockchain. As a pro rata percentage of shared resource usage rights, each TLOS token shall entitle the account holding it to proportional voting rights and use of the Telos blockchain's operational computer resources.
 
