@@ -18,9 +18,9 @@ Telos会以EOS ERC-20快照为基准，1:1比例发放TLOS代币（最高上限�
 
 请按照以下指引操作：
 
-1. Use any EOS or Telos wallet, Scatter, Greymass, etc.. We are using SQRL here to demonstrate how to generate a set of keys.
+1. 使用任何支持EOS或者Telos的钱包，比如Scatter, Greymass等等。 这里我们使用 SQRL 来演示如何生成密钥对。
 
-2. Generate a new set of keys. (These are for a Telos account.)
+2. 生成密钥对 (这些步骤是针对Telos账户的)
     
     <div align="center">
       <img width="620" src="https://raw.githubusercontent.com/Telos-Canton/telos-docs/master/images/recovery/step_1.png" />
@@ -32,7 +32,7 @@ Telos会以EOS ERC-20快照为基准，1:1比例发放TLOS代币（最高上限�
       <img width="620" src="https://raw.githubusercontent.com/Telos-Canton/telos-docs/master/images/recovery/step_2.png" />
     </div>
     <p align="center">
-      Click "Create New Account" to get to the next screen. You do not need a new account.
+      点击"Create New Account"进入下一界面。 You do not need a new account.
     </p>
     <div align="center">
       <img width="620" src="https://raw.githubusercontent.com/Telos-Canton/telos-docs/master/images/recovery/step_3.png" />
