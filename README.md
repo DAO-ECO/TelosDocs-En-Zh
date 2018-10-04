@@ -32,13 +32,14 @@ Telos中文翻译组的工作平台为：**github.com + crowdin.com**
 
 ## 3. 翻译组成员
 
-|       姓名       |   所属节点   |              邮箱               | Github账户  |    自评    |   语种    |
+|       Name       |   BP   |              Email               | Github  |    Self-assessment    |   Language    |
 | :--------------: | :----------: | :-----------------------------: | :---------: | :--------: | :-------: |
 |     Chen Li      |   EOS VAN    |    chen.li@telosvancouver.io    | ChenLi0830  |            | 中文/English |
 |   Fieldy Yeung   | Telos Canton |   fieldy.yeung@teloscanton.io   | fieldyyeung | Journeyman | 中文/English |
 |    Sheng Chao    | Independent  |         zsc070@163.com          |     No      |   Junior   |   中文    |
 |   Lizhi Guang    |   Goingos    |        hello@goingos.org        |   goingos   |   Junior   |   中文    |
 |       Eset       |    EOS OU    |          eosou@qq.com           |     No      |   Junior   |   中文    |
+| Kloud Wu | Telos Canton | kloud.wu@teloscanton.io |     No      |   Journeyman   |  中文/English  |
 | Michael Oliphant | Telos Canton | michael.oliphant@teloscanton.io |     No      |   Senior   |  English  |
 
 ## 4. 翻译组奖励
