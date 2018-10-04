@@ -32,37 +32,37 @@ Telos会以EOS ERC-20快照为基准，1:1比例发放TLOS代币（最高上限�
       <img width="620" src="https://raw.githubusercontent.com/Telos-Canton/telos-docs/master/images/recovery/step_2.png" />
     </div>
     <p align="center">
-      点击"Create New Account"进入下一界面。 You do not need a new account.
+      点击"Create New Account"进入下一界面。 你并不需要真的创建一个新账户。只需要生成对应密钥对即可。
     </p>
     <div align="center">
       <img width="620" src="https://raw.githubusercontent.com/Telos-Canton/telos-docs/master/images/recovery/step_3.png" />
     </div>
     <p align="center">
-      Enter a made-up account name. Any 12 digit account name/number will do.
+      起一个临时账户名， 任何12个字母或数字都行。
     </p>
     <div align="center">
       <img width="620" src="https://raw.githubusercontent.com/Telos-Canton/telos-docs/master/images/recovery/step_4.png" />
     </div>
     <p align="center">
-      Generate "Owner Public Key"
+      生成"拥有者权限的公钥"
     </p>
     <div align="center">
       <img width="620" src="https://raw.githubusercontent.com/Telos-Canton/telos-docs/master/images/recovery/step_5.png" />
     </div>
     <p align="center">
-      Copy "Owner Public Key" into "Active Public Key" field
+      将生成的"拥有者权限的公钥"拷贝到 Active Public Key (有效权限公钥) 中
     </p>
     <div align="center">
       <img width="620" src="https://raw.githubusercontent.com/Telos-Canton/telos-docs/master/images/recovery/step_6.png" />
     </div>
     <p align="center">
-      Copy/Paste your Keys to a safe place! <br /> Offline storage is recommended.
+      将你的密钥对复制粘贴到安全的地方。 推荐你离线保存。
     </p>
     <div align="center">
       <img width="620" src="https://raw.githubusercontent.com/Telos-Canton/telos-docs/master/images/recovery/step_7.jpg" />
     </div>
     <p align="center">
-      Creating an account is not necessary, you just need your new keys!
+      你并不需要真的创建账户，你只需要刚刚生成的密钥对！
     </p>
     <div align="center">
       <img width="620" src="https://raw.githubusercontent.com/Telos-Canton/telos-docs/master/images/recovery/step_8.jpg" />
