@@ -42,6 +42,7 @@ Telos中文翻译组的工作平台为：**github.com + crowdin.com**
 | Kloud Wu | Telos Canton | kloud.wu@teloscanton.io |     No      |   Journeyman   |  中文/English  |
 | Michael Oliphant | Telos Canton | michael.oliphant@teloscanton.io |     No      |   Senior   |  English  |
 | Thlon | Independent | 13362209563@163.com |     No      |   Junior   |  中文  |
+| Yuxi Liu | Independent | yuxiliu902@gmail.com |     No      |   Junior   |  中文/English |
 
 ## 4. 翻译组奖励
 
