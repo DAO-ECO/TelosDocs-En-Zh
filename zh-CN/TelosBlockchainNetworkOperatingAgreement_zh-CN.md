@@ -18,7 +18,7 @@ Telos区块链将会用来记录价值和信息，并执行与这些相关的计
 
 ## 5. 本地价值单位
 
-在Telos区块链上的本地价值单位为 TLOS 令牌。 Each TLOS token shall represent a percentage of the usage of the Telos blockchain shared resources in direct relation to the total number of TLOS tokens that are recorded on the blockchain. As a pro rata percentage of shared resource usage rights, each TLOS token shall entitle the account holding it to proportional voting rights and use of the Telos blockchain's operational computer resources.
+在Telos区块链上的本地价值单位为 TLOS 令牌。 每个 TLOS 通证代表Telos区块链系统资源的使用百分比, 这与区块链上记录的 TLOS 通证的总数有关。 As a pro rata percentage of shared resource usage rights, each TLOS token shall entitle the account holding it to proportional voting rights and use of the Telos blockchain's operational computer resources.
 
 ## 6. Operation and Execution of the Blockchain
 
