@@ -4,7 +4,7 @@
 
 本文的目的是在所有Telos区块链网络用户之间建立共同的协议, 以便实现一个安全、稳定和可控的区块链,。在这里价值和信息可以被存储, 所有争端都只需要使用本文和“Telos治理文档”中所述的方法而得到仲裁.它包括本协议,Telos区块链网络仲裁规则和过程, Telos"regproducer"合同人类语言术语, Telos"regarb"合同人类语言术语,Telos区块生产者最低要求, Telos仲裁员最低要求和Telos区块链网络的数据保护政策。 Telos区块链网络由一群选择使用区块链作为一种价值、信息和商业的跨国交换形式来组织自己的成员们组成。 Telos网络已同意通过Telos区块链网络运行协议(本“协议”)来管理Telos区块链、交易和本地通证，该协议列举了一套用户之间相互代理和协议的集合。
 
-## 2. Choice of Law
+## 2. 法律选择
 
 Any person or entity who uses the Telos Blockchain Network to store, exchange, or process value or information shall be herein referred to as a "Member." Each Member agrees to be bound exclusively by the terms of this Agreement or the most current Telos Blockchain Network Operating Agreement ratified or amended in accordance with the terms herein, and to select the terms of the current Agreement at the time of the transaction as binding in the interactions between them regarding any and all value and information stored on the Telos blockchain. It is the responsibility of each Member to abide by their local terrestrial laws and statutes.
 
