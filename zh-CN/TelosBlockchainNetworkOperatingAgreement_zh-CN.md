@@ -18,9 +18,9 @@ Telos区块链将会用来记录价值和信息，并执行与这些相关的计
 
 ## 5. 本地价值单位
 
-在Telos区块链上的本地价值单位为 TLOS 令牌。 每个 TLOS 通证代表Telos区块链系统资源的使用百分比, 这与区块链上记录的 TLOS 通证的总数有关。 As a pro rata percentage of shared resource usage rights, each TLOS token shall entitle the account holding it to proportional voting rights and use of the Telos blockchain's operational computer resources.
+在Telos区块链上的本地价值单位为 TLOS 令牌。 每个 TLOS 通证代表Telos区块链系统资源的使用百分比, 这与区块链上记录的 TLOS 通证的总数有关。 作为系统资源使用权限的比例百分比, 每个 TLOS 通证将赋予持有它的帐户相应比例的投票权和使用Telos区块链运行计算机资源的权利。
 
-## 6. Operation and Execution of the Blockchain
+## 6. 区块链的操作和执行
 
 The Telos blockchain reaches consensus regarding the values and transactions it records using delegated proof of stake, whereby active Validating Nodes ("Block Producers") and standby Validating Nodes ("Standby Block Producers") are elected by the votes of the TLOS token holders to serve as delegates in the processing and validating of transactions and blocks in the blockchain according the technical specifications of the Telos branch of the EOSIO software.
 
