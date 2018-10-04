@@ -22,11 +22,11 @@ Telos区块链将会用来记录价值和信息，并执行与这些相关的计
 
 ## 6. 区块链的操作和执行
 
-The Telos blockchain reaches consensus regarding the values and transactions it records using delegated proof of stake, whereby active Validating Nodes ("Block Producers") and standby Validating Nodes ("Standby Block Producers") are elected by the votes of the TLOS token holders to serve as delegates in the processing and validating of transactions and blocks in the blockchain according the technical specifications of the Telos branch of the EOSIO software.
+Telos区块链中的价值和交易记录使用委托股份证明机制达成共识，即主验证节点(“区块生产者”)和备用验证节点(“备用区块生产者”)是由TLOS通证的持有者的投票选出。他们作为代表，根据作为EOSIO软件分支的Telos的技术规格，处理和验证区块链中的交易和区块。
 
-## 7. Modifying the Blockchain
+## 7. 修改区块链
 
-Transactions on the Telos blockchain shall be reversible only until the Block Producers reach final consensus regarding the validity of the block containing them. Once 2/3 of the Block Producers have proposed a block to be valid and an additional Block Producer has accepted the proposed valid block, then it shall be deemed an "Irrevocable Block." The Telos blockchain shall never amend any Irrevocable Block. Modifications to the blockchain may only be made through rejecting blocks not yet accepted as Irrevocable Blocks and through appending new information into current blocks.
+只有当区块生产者就包含它们的区块的有效性达成最终一致意见时，Telos区块链上的交易才不可逆。 一旦2/3 的区块生产者提出了一个区块是有效的, 一个额外的区块生产者接受了提议的有效区块, 那么它应被视为一个“不可撤销的区块”。Telos区块链将永远不会修改任何不可撤销的区块。 对区块链的修改只能通过拒绝尚未被接受为不可撤销的区块以及在当前区块中添加新信息来完成。
 
 ## 8. Block Producer Nomination, Qualification, and Election
 
