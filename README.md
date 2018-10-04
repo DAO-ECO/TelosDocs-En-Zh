@@ -32,17 +32,17 @@ Telos中文翻译组的工作平台为：**github.com + crowdin.com**
 
 ## 3. 翻译组成员
 
-|       Name       |   BP   |              Email               | Github  |    Self-assessment    |   Language    |
-| :--------------: | :----------: | :-----------------------------: | :---------: | :--------: | :-------: |
-|     Chen Li      |   EOS VAN    |    chen.li@telosvancouver.io    | ChenLi0830  |            | 中文/English |
-|   Fieldy Yeung   | Telos Canton |   fieldy.yeung@teloscanton.io   | fieldyyeung | Journeyman | 中文/English |
-|    Sheng Chao    | Independent  |         zsc070@163.com          |     No      |   Junior   |   中文    |
-|   Lizhi Guang    | Telos GoingOS |        hello@goingos.org        |   goingos   |   Junior   |   中文    |
-|       Eset       |    EOS OU    |          eosou@qq.com           |     No      |   Junior   |   中文    |
-| Kloud Wu | Telos Canton | kloud.wu@teloscanton.io |     No      |   Journeyman   |  中文/English  |
-| Michael Oliphant | Telos Canton | michael.oliphant@teloscanton.io |     No      |   Senior   |  English  |
-| Thlon | Independent | 13362209563@163.com |     No      |   Junior   |  中文  |
-| Yuxi Liu | Independent | yuxiliu902@gmail.com |     No      |   Junior   |  中文/English |
+|       Name       |   BP   |  Github  |    Self-assessment    |   Language    |
+| :--------------: | :----------: | :---------: | :--------: | :-------: |
+|     Chen Li      |   EOS VAN    | ChenLi0830  |            | 中文/English |
+|   Fieldy Yeung   | Telos Canton | fieldyyeung | Journeyman | 中文/English |
+|    Sheng Chao    | Independent  |     No      |   Junior   |   中文    |
+|   Lizhi Guang    | Telos GoingOS |   goingos   |   Junior   |   中文    |
+|       Eset       |    EOS OU    |     No      |   Junior   |   中文    |
+| Kloud Wu | Telos Canton |     No      |   Journeyman   |  中文/English  |
+| Michael Oliphant | Telos Canton |     No      |   Senior   |  English  |
+| Thlon | Independent |     No      |   Junior   |  中文  |
+| Yuxi Liu | Independent |     No      |   Junior   |  中文/English |
 
 ## 4. 翻译组奖励
 
