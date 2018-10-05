@@ -36,9 +36,9 @@ Telos区块链中的价值和交易记录使用委托股份证明机制达成共
 
 区块生产者们应按照Telos区块生产者最低要求运行计算机和网络设备。 区块生产者应按照“regproducer”合约的人类语言条款所规定的时间表来生产区块。 作为Telos区块链的执行机构，区块生产者们对Telos区块链拥有广泛的行政权力。 他们可以暂停Telos区块链，进行软件更新，发行新的通证，在不违反协议的情况下对区块链执行附加的运行规则，并通过以2/3+1区块生产者的多数票通过的方式执行适当处理的仲裁命令。
 
-## 10. Block Producer Pay
+## 10. 区块生产者的报酬
 
-Block Producer and Standby Block Producers shall be paid each day from a daily fund consisting of the daily share of 1% annual inflation of the entire value of the Telos blockchain as measured in TLOS tokens. Every day, this total amount shall be allocated such that each Block Producer receives the same pay for the time spent as a Block Producer as every other Block Producer and each Standby receives pay that is half of the rate of each Block Producer for its time spent as a Standby, with the provision that Block Producers and Standby Block Producers may have their daily pay allotment deducted in proportion with the percentage of blocks they were expected to produce in their most recent production period of 180,000 blocks (approximately 24 hours) or fewer, but failed to produce. Loss of pay from failing to regularly execute the "claimrewards" action, shall be borne by the Block Producer or Standby Block Producer, not the network.
+区块状生产者和备用区块状生产者每天的报酬从日常基金中支付，该基金来自于以TLOS代币计量的Telos区块链的全部价值的1%的年度通货膨胀的每日份额。 Every day, this total amount shall be allocated such that each Block Producer receives the same pay for the time spent as a Block Producer as every other Block Producer and each Standby receives pay that is half of the rate of each Block Producer for its time spent as a Standby, with the provision that Block Producers and Standby Block Producers may have their daily pay allotment deducted in proportion with the percentage of blocks they were expected to produce in their most recent production period of 180,000 blocks (approximately 24 hours) or fewer, but failed to produce. Loss of pay from failing to regularly execute the "claimrewards" action, shall be borne by the Block Producer or Standby Block Producer, not the network.
 
 ## 11. Binding Arbitrations
 
