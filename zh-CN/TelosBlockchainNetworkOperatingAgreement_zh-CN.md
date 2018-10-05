@@ -30,7 +30,7 @@ Telos区块链中的价值和交易记录使用委托股份证明机制达成共
 
 ## 8. 区块生产者提名、资格和选举
 
-Any Telos Member may self-nominate as a candidate to be a Block Producer by executing the "regproducer" contract and accepting its human-language terms. The Telos blockchain maintains a list of minimum requirements for acting as a Block Producer or Standby Block Producers (the "Block Producer Minimum Requirements"). The 21 block producer candidates currently in compliance with the Block Producer Minimum Requirements receiving the highest weight of Member votes shall serve as Block Producers. The 30 block producer candidates currently in compliance with the Block Producer Minimum Requirements and not serving as Block Producers receiving the highest weight of Member votes shall serve as Standby Block Producers. Enforcement of compliance with the Block Producer Minimum Requirements shall be by the "enforcebpmins" contract.
+任何Telos成员可以通过执行“regproducer”合约并接受其人类语言条款，以自荐为区块生产者的候选人。 The Telos blockchain maintains a list of minimum requirements for acting as a Block Producer or Standby Block Producers (the "Block Producer Minimum Requirements"). The 21 block producer candidates currently in compliance with the Block Producer Minimum Requirements receiving the highest weight of Member votes shall serve as Block Producers. The 30 block producer candidates currently in compliance with the Block Producer Minimum Requirements and not serving as Block Producers receiving the highest weight of Member votes shall serve as Standby Block Producers. Enforcement of compliance with the Block Producer Minimum Requirements shall be by the "enforcebpmins" contract.
 
 ## 9. Functions of Block Producers
 
