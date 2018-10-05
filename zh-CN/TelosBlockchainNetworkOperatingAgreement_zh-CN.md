@@ -30,7 +30,7 @@ Telos区块链中的价值和交易记录使用委托股份证明机制达成共
 
 ## 8. 区块生产者提名、资格和选举
 
-任何Telos成员可以通过执行“regproducer”合约并接受其人类语言条款，以自荐为区块生产者的候选人。 Telos区块链对于成为区块生产者或备用区块生产者的有一个最低要求列表(“区块生产者最低要求”)。 The 21 block producer candidates currently in compliance with the Block Producer Minimum Requirements receiving the highest weight of Member votes shall serve as Block Producers. The 30 block producer candidates currently in compliance with the Block Producer Minimum Requirements and not serving as Block Producers receiving the highest weight of Member votes shall serve as Standby Block Producers. Enforcement of compliance with the Block Producer Minimum Requirements shall be by the "enforcebpmins" contract.
+任何Telos成员可以通过执行“regproducer”合约并接受其人类语言条款，以自荐为区块生产者的候选人。 Telos区块链对于成为区块生产者或备用区块生产者的有一个最低要求列表(“区块生产者最低要求”)。 当前获得最高权重票数且满足区块生产者最低要求的21个区块生产者候选人会成为区块生产者。 当前满足区块生产者最低要求，但没有获得最高权重票数的的30个区块生产者候选人，应作为备用区块生产者。 区块生产者最低要求的通过“enforcebpmins”合约强制执行。
 
 ## 9. Functions of Block Producers
 
