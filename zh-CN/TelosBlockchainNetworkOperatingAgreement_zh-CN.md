@@ -32,9 +32,9 @@ Telos区块链中的价值和交易记录使用委托股份证明机制达成共
 
 任何Telos成员可以通过执行“regproducer”合约并接受其人类语言条款，以自荐为区块生产者的候选人。 Telos区块链对于成为区块生产者或备用区块生产者的有一个最低要求列表(“区块生产者最低要求”)。 当前获得最高权重票数且满足区块生产者最低要求的21个区块生产者候选人会成为区块生产者。 当前满足区块生产者最低要求，但没有获得最高权重票数的的30个区块生产者候选人，应作为备用区块生产者。 区块生产者最低要求的通过“enforcebpmins”合约强制执行。
 
-## 9. Functions of Block Producers
+## 9. 区块生产者的功能
 
-Block Producers shall operate computer and networking equipment in accordance with the Telos Block Producer Minimum Requirements. Block Producers are to produce blocks at their scheduled time in accordance with the human-language terms of the "regproducer'" contract. As the executive authority of the Telos blockchain, the Block Producers, in aggregate, have broad executive powers over the Telos blockchain. They may pause the Telos blockchain, implement new software updates, print new tokens, implement additional operational rules for the blockchain that do not violate the Agreement, and enforce duly processed arbitration orders by voting for any such action with a majority vote of 2/3+1 Block Producers.
+区块生产者们应按照Telos区块生产者最低要求运行计算机和网络设备。 区块生产者应按照“regproducer”合约的人类语言条款所规定的时间表来生产区块。 作为Telos区块链的执行机构，区块生产者们对Telos区块链拥有广泛的行政权力。 They may pause the Telos blockchain, implement new software updates, print new tokens, implement additional operational rules for the blockchain that do not violate the Agreement, and enforce duly processed arbitration orders by voting for any such action with a majority vote of 2/3+1 Block Producers.
 
 ## 10. Block Producer Pay
 
