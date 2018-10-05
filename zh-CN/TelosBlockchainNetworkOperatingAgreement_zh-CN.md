@@ -34,7 +34,7 @@ Telos区块链中的价值和交易记录使用委托股份证明机制达成共
 
 ## 9. 区块生产者的功能
 
-区块生产者们应按照Telos区块生产者最低要求运行计算机和网络设备。 区块生产者应按照“regproducer”合约的人类语言条款所规定的时间表来生产区块。 作为Telos区块链的执行机构，区块生产者们对Telos区块链拥有广泛的行政权力。 They may pause the Telos blockchain, implement new software updates, print new tokens, implement additional operational rules for the blockchain that do not violate the Agreement, and enforce duly processed arbitration orders by voting for any such action with a majority vote of 2/3+1 Block Producers.
+区块生产者们应按照Telos区块生产者最低要求运行计算机和网络设备。 区块生产者应按照“regproducer”合约的人类语言条款所规定的时间表来生产区块。 作为Telos区块链的执行机构，区块生产者们对Telos区块链拥有广泛的行政权力。 他们可以暂停Telos区块链，进行软件更新，发行新的通证，在不违反协议的情况下对区块链执行附加的运行规则，并通过以2/3+1区块生产者的多数票通过的方式执行适当处理的仲裁命令。
 
 ## 10. Block Producer Pay
 
