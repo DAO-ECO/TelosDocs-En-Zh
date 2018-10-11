@@ -18,9 +18,9 @@ Be sure to save the private key associated with your new public key. This is how
 
 Follow the instructions below:
 
-1. Download the Sqrl wallet from telosfoundation.io/downloads
+1. Use any EOS or Telos wallet, Scatter, Greymass, etc.. We are using SQRL here to demonstrate how to generate a set of keys.
 
-2. Generate new keys to send us:
+2. Generate a new set of keys. (These are for a Telos account.)
     
     <div align="center">
       <img width="620" src="https://raw.githubusercontent.com/Telos-Canton/telos-docs/master/images/recovery/step_1.png" />
@@ -32,44 +32,41 @@ Follow the instructions below:
       <img width="620" src="https://raw.githubusercontent.com/Telos-Canton/telos-docs/master/images/recovery/step_2.png" />
     </div>
     <p align="center">
-      Select "Telos Testnet"
+      Click "Create New Account" to get to the next screen. You do not need a new account.
     </p>
     <div align="center">
       <img width="620" src="https://raw.githubusercontent.com/Telos-Canton/telos-docs/master/images/recovery/step_3.png" />
     </div>
     <p align="center">
-      Click "Create New Account"
+      Enter a made-up account name. Any 12 digit account name/number will do.
     </p>
     <div align="center">
       <img width="620" src="https://raw.githubusercontent.com/Telos-Canton/telos-docs/master/images/recovery/step_4.png" />
     </div>
     <p align="center">
-      Enter your account name
+      Generate "Owner Public Key"
     </p>
     <div align="center">
       <img width="620" src="https://raw.githubusercontent.com/Telos-Canton/telos-docs/master/images/recovery/step_5.png" />
     </div>
     <p align="center">
-      Generate "Owner Public Key"
+      Copy "Owner Public Key" into "Active Public Key" field
     </p>
     <div align="center">
       <img width="620" src="https://raw.githubusercontent.com/Telos-Canton/telos-docs/master/images/recovery/step_6.png" />
     </div>
     <p align="center">
-      "Owner Public Key" into "Active Public Key" field
+      Copy/Paste your Keys to a safe place! <br /> Offline storage is recommended.
     </p>
     <div align="center">
       <img width="620" src="https://raw.githubusercontent.com/Telos-Canton/telos-docs/master/images/recovery/step_7.jpg" />
     </div>
     <p align="center">
-      Copy/Paste your Keys to a safe place! Offline storage is recommended.
+      Creating an account is not necessary, you just need your new keys!
     </p>
     <div align="center">
       <img width="620" src="https://raw.githubusercontent.com/Telos-Canton/telos-docs/master/images/recovery/step_8.jpg" />
     </div>
-    <p align="center">
-      Creating an account is not necessary, you just need your new keys!
-    </p>
 3. Go to: www.myetherwallet.com/signmsg.html
     
     - Sign in and select the Ethereum wallet that held your EOS tokens.
@@ -86,31 +83,7 @@ Follow the instructions below:
         <div align="center">
           <img width="620" src="https://raw.githubusercontent.com/Telos-Canton/telos-docs/master/images/recovery/ether_screenshot_2.jpg" />
         </div>
-    <p align="center">
-      Enter your own Ethereum address where you held your EOS tokens in "Ethereum Address" and your new SQRL public key into "New EOS Public Key"
-    </p>
-    <div align="center">
-      <img width="620" src="https://raw.githubusercontent.com/Telos-Canton/telos-docs/master/images/recovery/ether_screenshot_3.eb955e94.png" />
-    </div>
-    <p align="center">
-      Log into the wallet that has your Ethereum account where your EOS tokens where held.
-    </p>
-        
-        
-    
-    <div align="center">
-      <img width="620" src="https://raw.githubusercontent.com/Telos-Canton/telos-docs/master/images/recovery/ether_screenshot_4.e942d25d.jpg" />
-    </div>
-    <p align="center">
-      Sign the pasted message with the Ethereum address and new Telos Public Key (or an EOS key you want to use).
-    </p>
-    <div align="center">
-      <img width="620" src="https://raw.githubusercontent.com/Telos-Canton/telos-docs/master/images/recovery/ether_screenshot_5.1c820298.jpg" />
-    </div>
-    <p align="center">
-      Copy this Signature text and send it in the form below
-    </p>
-    - Email us your information so we can research your claim.
+    - Send us your information so we can research your claim.
 
 ## PROCESS 2
 
