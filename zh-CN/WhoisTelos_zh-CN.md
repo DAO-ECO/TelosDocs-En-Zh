@@ -2,7 +2,7 @@
 
 作者：道格拉斯・霍恩（Douglas Horn）
 
-“What kind of person gives up on EOS just a month after the launch?” I am being asked this question a lot right now.
+“EOS上线才仅仅一个月，什么样的人会选择放弃它？”，我现在经常会被问到这个问题。
 
 I’m part of a group building a new network called Telos that uses the open source EOSIO code but with several new innovations we are currently creating. In a world where many kinds of crypto projects have many kinds of outcomes, it’s reasonable to ask who is behind this one.
 
