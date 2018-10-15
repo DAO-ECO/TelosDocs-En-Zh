@@ -10,7 +10,7 @@
 
 我有足够的岁月历练，经历过万维网时代的黎明，它伴随如冰雕城堡般（会随时融化消失）的“点对点乌托邦”（Peer-to-Peer Utopia）式承诺，使个人陷入到被公司控制的泥沼之中。 我担心区块链也会屈服于政府和FAANG（脸书、苹果、亚马逊、奈飞和谷歌公司名称的英文首字母合并）的新霸权，除非我们能保证区块链承诺的实现，为小开发者、世界偏远地区服务不足的人群以及普通用户可以彼此互动而不再被大型企业和政府官僚插手他们的身务。
 
-The best way to promote crypto is to build really useful tools and DApps to get people using the tech to improve their daily lives. This opportunity is what originally guided my development company, GoodBlock.io to join the EOS mainnet launch group. At the time we used the name EOSAmericas with a plan to launch servers and educational/promotional partnerships for EOS throughout underserved areas in all the Americas from Fairbanks to Tierra del Fuego.
+促进加密货币的最好方法是构建真正有用的工具和DApps，让人们使用技术来改善他们的日常生活。 这个机会启蒙了我的开发公司，GoodBlock.io加入了EOS主网启动组。 At the time we used the name EOSAmericas with a plan to launch servers and educational/promotional partnerships for EOS throughout underserved areas in all the Americas from Fairbanks to Tierra del Fuego.
 
 In participating in the launch of the EOS mainnet, we learned a lot about the technology and we came to know many other block producer candidate colleagues working with us to stand up this new network. Many of us were true believers in the promise of EOS. Why else would so many talented, technically adept people dedicate months of their lives to creating a new network with only the hope of eventually being elected to help run it? Because we understood its promise and we wanted to help bring it to the world.
 
