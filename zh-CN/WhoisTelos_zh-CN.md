@@ -1,6 +1,6 @@
-# Who is Telos?
+# Telos是谁？
 
-By Douglas Horn
+作者：道格拉斯・霍恩（Douglas Horn）
 
 “What kind of person gives up on EOS just a month after the launch?” I am being asked this question a lot right now.
 
