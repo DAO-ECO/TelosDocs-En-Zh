@@ -6,7 +6,7 @@
 
 我是Telos初创团队的一员，这个新网络使用EOSIO开源代码，并进行了一系列创造性的改革。 在这个世界里，有如此之多走向各式各样结局的区块链项目，完全有理由去质问其中的这一个（指EOS）背后是谁？
 
-把我带到Telos的整个历程始于我对加密货币从一般兴趣到正式投资的一个长期参与过程，然后到运作节点和挖矿，以及最近组建了一个由开发者和区块生产者组成的充满才华的开发DApps团队。 Every engagement I’ve had with crypto and blockchain has deepened my belief that this technology may be the last great chance we have to empower individuals more than corporations and governments.
+把我带到Telos的整个历程始于我对加密货币从一般兴趣到正式投资的一个长期参与过程，然后到运作节点和挖矿，以及最近组建了一个由开发者和区块生产者组成的充满才华的开发DApps团队。 与加密货币和区块链的每一次互动都加深了我的信念，即这项技术是我们可以赋予个人比公司和政府更多权力的最后一次机会。
 
 I’m old enough to have lived through the dawn of the Web era with its ice castle promises of a peer-to-peer utopia empowering the individual melting into a puddle of corporate control. I fear that blockchain, too, will succumb to a new hegemony of governments and FAANG corporations unless we work to keep the promise of blockchain alive for small developers, for underserved populations in remote parts of the world, and for general users to interact with each other without the controlling hands of big businesses and government bureaucracies inserting themselves into their affairs.
 
