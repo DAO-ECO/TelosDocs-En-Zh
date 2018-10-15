@@ -4,7 +4,7 @@
 
 “EOS上线才仅仅一个月，什么样的人会选择放弃它？”，我现在经常会被问到这个问题。
 
-我是Telos初创团队的一员，这个新网络使用EOSIO开源代码，并进行了一系列创造性的改革。 In a world where many kinds of crypto projects have many kinds of outcomes, it’s reasonable to ask who is behind this one.
+我是Telos初创团队的一员，这个新网络使用EOSIO开源代码，并进行了一系列创造性的改革。 在这个世界里，有如此之多走向各式各样结果的区块链项目，完全有理由去质问这一个（EOS）的背后是谁？
 
 The road that brought me to Telos began with a long involvement with crypto from general interest to investing, then running nodes and mining operations, and most recently to assembling a talented team of developers and producers to create DApps. Every engagement I’ve had with crypto and blockchain has deepened my belief that this technology may be the last great chance we have to empower individuals more than corporations and governments.
 
