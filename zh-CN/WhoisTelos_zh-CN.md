@@ -8,7 +8,7 @@
 
 把我带到Telos的整个历程始于我对加密货币从一般兴趣到正式投资的一个长期参与过程，然后到运作节点和挖矿，以及最近组建了一个由开发者和区块生产者组成的充满才华的DApps开发团队。 与加密货币和区块链的每一次互动都加深了我的信念，即这项技术是我们可以赋予个人比公司和政府更多权力的最后一次伟大的机会。
 
-我有足够的岁月历练，经历过万维网时代的黎明，它伴随如冰雕城堡般（会随时融化消失）的“点对点乌托邦”（Peer-to-Peer Utopia）式承诺，使个人陷入到被公司控制的泥沼之中。 I fear that blockchain, too, will succumb to a new hegemony of governments and FAANG corporations unless we work to keep the promise of blockchain alive for small developers, for underserved populations in remote parts of the world, and for general users to interact with each other without the controlling hands of big businesses and government bureaucracies inserting themselves into their affairs.
+我有足够的岁月历练，经历过万维网时代的黎明，它伴随如冰雕城堡般（会随时融化消失）的“点对点乌托邦”（Peer-to-Peer Utopia）式承诺，使个人陷入到被公司控制的泥沼之中。 我担心区块链也会屈服于政府和FAANG（脸书、苹果、亚马逊、奈飞和谷歌公司名称的英文首字母合并）的新霸权，除非我们能保证区块链承诺的实现，为小开发者、世界偏远地区服务不足的人群以及普通用户可以彼此互动而不再被大型企业和政府官僚插手他们的身务。
 
 The best way to promote crypto is to build really useful tools and DApps to get people using the tech to improve their daily lives. This opportunity is what originally guided my development company, GoodBlock.io to join the EOS mainnet launch group. At the time we used the name EOSAmericas with a plan to launch servers and educational/promotional partnerships for EOS throughout underserved areas in all the Americas from Fairbanks to Tierra del Fuego.
 
@@ -16,7 +16,7 @@ In participating in the launch of the EOS mainnet, we learned a lot about the te
 
 Of course, the EOS mainnet launched and activated. And then some strange stuff happened — block producer groups we’d never worked with, never discussed policy, procedures, or technology with, often never even heard of — suddenly appeared and were instantly being voted into position as block producers, sometimes with the votes of just a single whale account. People’s EOS were seemingly being stolen and questions arose about what could be done, whether the constitution had any validity, and if it was okay to freeze people’s accounts. And of course, the RAM market exploded, driving new users and DApps away from the network due to costs. How could people be expected to join the network — particularly from underserved, economically challenged, regions — if new EOS accounts cost $10–20?
 
-## Taking Action
+## 行动起来
 
 What should a person do when they see something with amazing potential going down the wrong path — a path that threatens its ability to improve the world? Some people say to keep fighting within the system and trust that you can effect change. But in a system governed by voting, is it reasonable to expect less than 1% of the voters who control well over 70% of the voting power to choose the good of the network over their own self-interest?
 
@@ -34,8 +34,8 @@ This is who we are at the Telos network. The Telos Contributors Group is open to
 
 For more information about the community of the Telos Network and the Telos Foundation, please visit us and join the conversation:
 
-Website at www.telosfoundation.io
+网站：www.telosfoundation.io 
 
-Telegram https://t.me/HelloTelos
+电报群：https://t.me/HelloTelos
 
-Twitter at https://twitter.com/HelloTelos
+推特：https://twitter.com/HelloTelos
