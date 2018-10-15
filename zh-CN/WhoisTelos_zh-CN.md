@@ -8,7 +8,7 @@
 
 把我带到Telos的整个历程始于我对加密货币从一般兴趣到正式投资的一个长期参与过程，然后到运作节点和挖矿，以及最近组建了一个由开发者和区块生产者组成的充满才华的DApps开发团队。 与加密货币和区块链的每一次互动都加深了我的信念，即这项技术是我们可以赋予个人比公司和政府更多权力的最后一次伟大的机会。
 
-I’m old enough to have lived through the dawn of the Web era with its ice castle promises of a peer-to-peer utopia empowering the individual melting into a puddle of corporate control. I fear that blockchain, too, will succumb to a new hegemony of governments and FAANG corporations unless we work to keep the promise of blockchain alive for small developers, for underserved populations in remote parts of the world, and for general users to interact with each other without the controlling hands of big businesses and government bureaucracies inserting themselves into their affairs.
+我有足够的岁月历练，经历过万维网时代的黎明，它伴随如冰雕城堡般（会随时融化消失）的“点对点乌托邦”（Peer-to-Peer Utopia）式承诺，使个人陷入到被公司控制的泥沼之中。 I fear that blockchain, too, will succumb to a new hegemony of governments and FAANG corporations unless we work to keep the promise of blockchain alive for small developers, for underserved populations in remote parts of the world, and for general users to interact with each other without the controlling hands of big businesses and government bureaucracies inserting themselves into their affairs.
 
 The best way to promote crypto is to build really useful tools and DApps to get people using the tech to improve their daily lives. This opportunity is what originally guided my development company, GoodBlock.io to join the EOS mainnet launch group. At the time we used the name EOSAmericas with a plan to launch servers and educational/promotional partnerships for EOS throughout underserved areas in all the Americas from Fairbanks to Tierra del Fuego.
 
