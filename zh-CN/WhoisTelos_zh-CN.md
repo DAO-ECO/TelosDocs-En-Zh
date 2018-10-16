@@ -10,7 +10,7 @@
 
 我有足够的岁月历练，经历过万维网时代的黎明，它伴随如冰雕城堡般（会随时融化消失）的“点对点乌托邦”（Peer-to-Peer Utopia）式承诺，使个人陷入到被公司控制的泥沼之中。 我担心区块链也会屈服于政府和FAANG（脸书、苹果、亚马逊、奈飞和谷歌公司名称的英文首字母合并）的新霸权，除非我们能保证区块链承诺的实现，为小开发者、世界偏远地区服务不足的人群以及普通用户可以彼此互动而不再被大型企业和政府官僚插手他们的身务。
 
-促进加密货币的最好方法是构建真正有用的工具和DApps，让人们使用技术来改善他们的日常生活。 这个机会启蒙了我的开发公司，GoodBlock.io加入了EOS主网启动组。 At the time we used the name EOSAmericas with a plan to launch servers and educational/promotional partnerships for EOS throughout underserved areas in all the Americas from Fairbanks to Tierra del Fuego.
+促进加密货币的最好方法是构建真正有用的工具和DApps，让人们使用技术来改善他们的日常生活。 这个机会启蒙了我的开发公司，GoodBlock.io加入了EOS主网启动组。 当时我们使用EOSAmericas这个名字计划在从费尔班克斯（位于阿拉斯加州）到火地岛（南美洲的最南端）的全美洲范围内为服务欠缺的地区启动EOS服务器、教育普及和增进合作伙伴关系。
 
 In participating in the launch of the EOS mainnet, we learned a lot about the technology and we came to know many other block producer candidate colleagues working with us to stand up this new network. Many of us were true believers in the promise of EOS. Why else would so many talented, technically adept people dedicate months of their lives to creating a new network with only the hope of eventually being elected to help run it? Because we understood its promise and we wanted to help bring it to the world.
 
@@ -32,7 +32,7 @@ Telos is made up of people who believe that there is great opportunity in EOSIO 
 
 This is who we are at the Telos network. The Telos Contributors Group is open to join for anyone who wants to make contributions toward launching the network. If you believe in this dream and a better road as we do, please join us.
 
-For more information about the community of the Telos Network and the Telos Foundation, please visit us and join the conversation:
+有关Telos网络社区和Telos基金会的更多信息，请访问我们并加入讨论：
 
 网站：www.telosfoundation.io 
 
