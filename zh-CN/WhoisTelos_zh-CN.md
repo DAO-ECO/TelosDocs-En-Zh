@@ -22,7 +22,7 @@
 
 我认为EOSIO软件对应的承诺是值得守护的，我相信我能保护它的最佳方式是提出一种与原版共存的新形式。 这种新形式，就是Telos，它可以做到原版无法做到的事情，因为不同于原版，Telos并没有进行ICO，有别于通过ICO接受了数十亿美元投资的EOS。 作为一个新的区块链，Telos可以自由地进行EOS无法进行的修改和创新——从纠正投票权的高度中心化开始。 通过对只占EOS创世快照账户总数量0.67%的账户进行变更（每个账户最高上限为40,000个Token），使Telos成为在所有主流区块链项目中经济分布最为去中心化的一个。 Telos在避免政府干预方面被认为更加安全，因为作为一个无ICO，经济分布去中心化的区块链，它远比EOS符合美国证券交易委员会（US SEC） 公示的关于非证券项目的描述。
 
-Instead of a chain where one account controls 10% of the money supply, and another coalition controls a further 15% (or 25% control from just two entities), Telos will create a blockchain where no one controls more than 0.5% of the token supply or voting.
+有别于一个账户就控制着10％的货币供应而另一个同盟则控制了另外的15％（或者说仅两个实体就控制了25％）的公链，Telos将创建一个没有人能控制超过0.5％的Token供应或投票的区块链。
 
 Of course, if I had been alone in my hopes for offering a different path for EOSIO software, then Telos would be no more than a document on my computer. Fortunately, I had made many acquaintances in the EOS community during the run-up to the launch and when I shared my concerns and ideas with many of these people, they responded. I was not alone in my fervent hopes for EOS and my strong concerns that there may be a better path for the technology to reach people in a sustainable way.
 
