@@ -30,7 +30,7 @@ As I shared with others in the EOS world the documents that became the Telos whi
 
 Telos is made up of people who believe that there is great opportunity in EOSIO that might be better served in another form than what the EOS mainnet offers. The group has organized itself, tackled tough projects, and welcomed new people from the community every day. The Telos Contributors Group is open to anyone who wants to help bring the Telos network to life. Many of our members express feeling a strong comradery in the group that they did not feel in EOS. Perhaps this is natural. In launching EOS, there was a lot of money on the table to be won by the block producers who managed to score the top 21 positions. In Telos, even when the network launches, the BP pay will be low and perhaps difficult to exchange. There is no ready market unless we make one. Perhaps one day being a Telos BP will be a highly lucrative position, but at this moment, it is one to pursue only if you really believe in the dream of a new way for EOSIO to reach out and make the world a better place.
 
-This is who we are at the Telos network. The Telos Contributors Group is open to join for anyone who wants to make contributions toward launching the network. If you believe in this dream and a better road as we do, please join us.
+这就是Telos网络中的我们。 Telos贡献组欢迎任何想要为Telos网络启动做贡献的伙伴加入。 如果你相信这个梦想，相信我们正建设一条更好的道路，请加入我们。
 
 有关Telos网络社区和Telos基金会的更多信息，请访问我们并加入讨论：
 
