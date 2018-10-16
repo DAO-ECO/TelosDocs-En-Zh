@@ -18,7 +18,7 @@
 
 ## 行动起来
 
-What should a person do when they see something with amazing potential going down the wrong path — a path that threatens its ability to improve the world? Some people say to keep fighting within the system and trust that you can effect change. But in a system governed by voting, is it reasonable to expect less than 1% of the voters who control well over 70% of the voting power to choose the good of the network over their own self-interest?
+当一个人看到具有惊人潜力的事物走向一条堕落的道路，而此路断送了它改善世界的能力时，他应该怎么做 ？ 有的人说应该留在系统内部继续抗争并相信自己可以改变这一切。 But in a system governed by voting, is it reasonable to expect less than 1% of the voters who control well over 70% of the voting power to choose the good of the network over their own self-interest?
 
 I felt that the promise of the EOSIO software was worth protecting and I believed the best way that I could protect it was by proposing a new form to exist alongside the original. That new form, Telos, could do things that the original could not, because unlike EOS, Telos had not run an ICO where it accepted billions of dollars in investment. As a new blockchain, Telos was free to make modifications and innovations that EOS could not — starting with correcting the hyper-centralization of voting power. By altering just 0.67% of all EOS accounts on the genesis snapshot (with a 40,000 token cap) Telos is able to create the most economically decentralized of all major blockchain projects. Telos could also be considered safer from government intervention because as an ICO-less, economically decentralized blockchain, it matched the description the US SEC had provided as a project it would not consider a security far better than EOS would.
 
