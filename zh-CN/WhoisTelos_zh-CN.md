@@ -14,7 +14,7 @@
 
 在参与EOS主网启动的过程中，我们学到了许多关于这项技术的知识，并且认识了许多与我们一同共建这个新网络的BP（区块生产者）候选人。 我们中的许多人都是EOS承诺的真正信徒。 为什么有这么多才华横溢，技术娴熟的人们贡献数月来创建一个新网络，而只希望最终能被选中去运行它？ 因为我们了解它的承诺，并希望能为把它带给全世界而出一份力。
 
-当然，EOS主网络已经启动并激活了。 And then some strange stuff happened — block producer groups we’d never worked with, never discussed policy, procedures, or technology with, often never even heard of — suddenly appeared and were instantly being voted into position as block producers, sometimes with the votes of just a single whale account. People’s EOS were seemingly being stolen and questions arose about what could be done, whether the constitution had any validity, and if it was okay to freeze people’s accounts. And of course, the RAM market exploded, driving new users and DApps away from the network due to costs. How could people be expected to join the network — particularly from underserved, economically challenged, regions — if new EOS accounts cost $10–20?
+当然，EOS主网络已经启动并激活了。 但接下来奇怪的事情发生了——一些区块生产者群体从未和我们一起工作过，也从未一起讨论过政策、程序或技术，甚至闻所未闻——却突然出现就立即被选中，而选票有时候仅来自同一个巨鲸账户。 当人们的EOS似乎被盗了，该如何处理？宪法是否有任何的效力，是否可以冻结人们的账户？ And of course, the RAM market exploded, driving new users and DApps away from the network due to costs. How could people be expected to join the network — particularly from underserved, economically challenged, regions — if new EOS accounts cost $10–20?
 
 ## 行动起来
 
