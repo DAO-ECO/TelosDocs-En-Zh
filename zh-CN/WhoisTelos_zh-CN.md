@@ -1,22 +1,22 @@
-# Who is Telos?
+# Telos是谁？
 
-By Douglas Horn
+作者：道格拉斯・霍恩（Douglas Horn）
 
-“What kind of person gives up on EOS just a month after the launch?” I am being asked this question a lot right now.
+“EOS上线才仅仅一个月，什么样的人会选择放弃它？”，我现在经常会被问到这个问题。
 
-I’m part of a group building a new network called Telos that uses the open source EOSIO code but with several new innovations we are currently creating. In a world where many kinds of crypto projects have many kinds of outcomes, it’s reasonable to ask who is behind this one.
+我是Telos初创团队的一员，这个新网络使用EOSIO开源代码，并进行了一系列创造性的改革。 在这个世界里，有如此之多走向各式各样结局的区块链项目，完全有理由去质问其中的这一个（指EOS）背后是谁？
 
-The road that brought me to Telos began with a long involvement with crypto from general interest to investing, then running nodes and mining operations, and most recently to assembling a talented team of developers and producers to create DApps. Every engagement I’ve had with crypto and blockchain has deepened my belief that this technology may be the last great chance we have to empower individuals more than corporations and governments.
+把我带到Telos的整个历程始于我对加密货币从一般兴趣到正式投资的一个长期参与过程，然后到运作节点和挖矿，以及最近组建了一个由开发者和区块生产者组成的充满才华的DApps开发团队。 与加密货币和区块链的每一次互动都加深了我的信念，即这项技术是我们可以赋予个人比公司和政府更多权力的最后一次伟大的机会。
 
-I’m old enough to have lived through the dawn of the Web era with its ice castle promises of a peer-to-peer utopia empowering the individual melting into a puddle of corporate control. I fear that blockchain, too, will succumb to a new hegemony of governments and FAANG corporations unless we work to keep the promise of blockchain alive for small developers, for underserved populations in remote parts of the world, and for general users to interact with each other without the controlling hands of big businesses and government bureaucracies inserting themselves into their affairs.
+我有足够的岁月历练，经历过万维网时代的黎明，它伴随如冰雕城堡般（会随时融化消失）的“点对点乌托邦”（Peer-to-Peer Utopia）式承诺，使个人陷入到被公司控制的泥沼之中。 我担心区块链也会屈服于政府和FAANG（脸书、苹果、亚马逊、奈飞和谷歌公司名称的英文首字母合并）的新霸权，除非我们能保证区块链承诺的实现，为小开发者、世界偏远地区服务不足的人群以及普通用户可以彼此互动而不再被大型企业和政府官僚插手他们的身务。
 
-The best way to promote crypto is to build really useful tools and DApps to get people using the tech to improve their daily lives. This opportunity is what originally guided my development company, GoodBlock.io to join the EOS mainnet launch group. At the time we used the name EOSAmericas with a plan to launch servers and educational/promotional partnerships for EOS throughout underserved areas in all the Americas from Fairbanks to Tierra del Fuego.
+促进加密货币的最好方法是构建真正有用的工具和DApps，让人们使用技术来改善他们的日常生活。 这个机会启蒙了我的开发公司，GoodBlock.io加入了EOS主网启动组。 当时我们使用EOSAmericas这个名字计划在从费尔班克斯（位于阿拉斯加州）到火地岛（南美洲的最南端）的全美洲范围内为服务欠缺的地区启动EOS服务器、教育普及和增进合作伙伴关系。
 
-In participating in the launch of the EOS mainnet, we learned a lot about the technology and we came to know many other block producer candidate colleagues working with us to stand up this new network. Many of us were true believers in the promise of EOS. Why else would so many talented, technically adept people dedicate months of their lives to creating a new network with only the hope of eventually being elected to help run it? Because we understood its promise and we wanted to help bring it to the world.
+在参与EOS主网启动的过程中，我们学到了许多关于这项技术的知识，并且认识了许多与我们一同共建这个新网络的BP（区块生产者）候选人。 我们中的许多人都是EOS承诺的真正信徒。 为什么有这么多才华横溢，技术娴熟的人们贡献数月来创建一个新网络，而只希望最终能被选中去运行它？ 因为我们了解它的承诺，并希望能为把它带给全世界而出一份力。
 
-Of course, the EOS mainnet launched and activated. And then some strange stuff happened — block producer groups we’d never worked with, never discussed policy, procedures, or technology with, often never even heard of — suddenly appeared and were instantly being voted into position as block producers, sometimes with the votes of just a single whale account. People’s EOS were seemingly being stolen and questions arose about what could be done, whether the constitution had any validity, and if it was okay to freeze people’s accounts. And of course, the RAM market exploded, driving new users and DApps away from the network due to costs. How could people be expected to join the network — particularly from underserved, economically challenged, regions — if new EOS accounts cost $10–20?
+当然，EOS主网络已经启动并激活了。 但接下来奇怪的事情发生了——一些区块生产者群体从未和我们一起工作过，也从未一起讨论过政策、程序或技术，甚至闻所未闻——却突然出现就立即被选中，而选票有时候仅来自同一个巨鲸账户。 当人们的EOS似乎被盗了，该如何处理？宪法是否有任何的效力，是否可以冻结人们的账户？ 当然，内存（RAM）市场投机暴涨，导致新用户和DApps因成本问题而离开主网。 如果EOS新开户成本高达10-20美元，那么如何能期待人们会加入主网？特别是对于服务欠缺和经济困难的地区。
 
-## Taking Action
+## 行动起来
 
 What should a person do when they see something with amazing potential going down the wrong path — a path that threatens its ability to improve the world? Some people say to keep fighting within the system and trust that you can effect change. But in a system governed by voting, is it reasonable to expect less than 1% of the voters who control well over 70% of the voting power to choose the good of the network over their own self-interest?
 
@@ -30,12 +30,12 @@ As I shared with others in the EOS world the documents that became the Telos whi
 
 Telos is made up of people who believe that there is great opportunity in EOSIO that might be better served in another form than what the EOS mainnet offers. The group has organized itself, tackled tough projects, and welcomed new people from the community every day. The Telos Contributors Group is open to anyone who wants to help bring the Telos network to life. Many of our members express feeling a strong comradery in the group that they did not feel in EOS. Perhaps this is natural. In launching EOS, there was a lot of money on the table to be won by the block producers who managed to score the top 21 positions. In Telos, even when the network launches, the BP pay will be low and perhaps difficult to exchange. There is no ready market unless we make one. Perhaps one day being a Telos BP will be a highly lucrative position, but at this moment, it is one to pursue only if you really believe in the dream of a new way for EOSIO to reach out and make the world a better place.
 
-This is who we are at the Telos network. The Telos Contributors Group is open to join for anyone who wants to make contributions toward launching the network. If you believe in this dream and a better road as we do, please join us.
+这就是Telos网络中的我们。 Telos贡献组欢迎任何想要为Telos网络启动做贡献的伙伴加入。 如果你相信这个梦想，相信我们正建设一条更好的道路，请加入我们。
 
-For more information about the community of the Telos Network and the Telos Foundation, please visit us and join the conversation:
+有关Telos网络社区和Telos基金会的更多信息，请访问我们并加入讨论：
 
-Website at www.telosfoundation.io
+网站：www.telosfoundation.io 
 
-Telegram https://t.me/HelloTelos
+电报群：https://t.me/HelloTelos
 
-Twitter at https://twitter.com/HelloTelos
+推特：https://twitter.com/HelloTelos
