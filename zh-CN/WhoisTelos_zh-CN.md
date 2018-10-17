@@ -24,7 +24,7 @@
 
 有别于一个账户就控制着10％的货币供应而另一个同盟则控制了另外的15％（或者说仅两个实体就控制了25％）的公链，Telos将创建一个没有人能控制超过0.5％的Token供应或投票的区块链。
 
-当然，如果我在为EOSIO软件另辟蹊径的愿望上只是孤军奋战的话，那么Telos就只不过是我电脑上的一堆文档罢了。 幸运的是，在EOS启动的预备阶段，我在EOS社区结识了许多朋友，当我与其中许多人分享我的疑虑和想法时，引起了他们的共鸣。 I was not alone in my fervent hopes for EOS and my strong concerns that there may be a better path for the technology to reach people in a sustainable way.
+当然，如果我在为EOSIO软件另辟蹊径的愿望上只是孤军奋战的话，那么Telos就只不过是我电脑上的一堆文档罢了。 幸运的是，在EOS启动的预备阶段，我在EOS社区结识了许多朋友，当我与其中许多人分享我的疑虑和想法时，引起了他们的共鸣。 我并不是唯一一个对EOS寄予厚望的人，我强烈关注的是，该技术可能有一条更好的道路，能以可持续发展的方式到达人们的手中。
 
 当我在EOS世界中与其他人分享的文档汇聚成为Telos白皮书时，我获得了各级区块生产者（BP）和技术人员的强烈支持。 许多正获得报酬的生产节点（也称超级节点）和预备节点告诉我，他们不能承担疏远“巨鲸”（有资源垄断投票权力的人或团体）或丹·拉里默（Dan Larimer，Block.one的CTO，EOSIO的创始人之一）的风险。丹·拉里默曾威胁要动用他手中的投票力量去影响选举，他将投票给那些支持他改写EOS宪法的人。 我不能责怪他们，他们已经为EOS网络的启动投入了大量金钱 ，和我们一样，他们也需要收回一些成本。 A few brave souls earning standby block producer rewards did join us but we were fortunate enough to find many highly accomplished block producer candidates who had been shut out of the earnings after many months of important contributions. They were not held back by concerns about losing the whale votes necessary to serve as an EOS block producer. Together we announced on July 12th with 12 partners. Since then, new people have joined the Telos Contributors Group every day. Some are block producers, but many are individuals who start out asking about Telos — often with pointed questions — and end up joining the effort because they respond to the Telos ethos of security, openness, transparency, and opportunity.
 
