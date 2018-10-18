@@ -14,18 +14,18 @@ Sqrl 是专为 TELOS 区块链设计的轻钱包。 该钱包可用于连接到�
 
 我们希望创造迄今为止最强大的区块链。不来虚的，读读我们的白皮书，你自己来判断。 加入我们，在Telos上构建你的去中心化应用。
 
-#### Electronic Press Kit
+#### 电子版宣传页
 
-Everything you need to know about Telos in one PDF.
+一个PDF了解 Telos 的所有内容。
 
-#### Telos Style Guide
+#### Telos 风格指南
 
-A style guide featuring Telos Foundation logos, color palettes and fonts for brand use.
+Telos基金会的风格指南, 包括Telos使用的徽标、选色板和字体。
 
-#### Telos Logo and Icon
+#### Telos 徽标和图标
 
-A package containing an assortment of file sizes and types for the Telos logo and icon.
+包含各种大小和类型的 Telos 徽标和图标。
 
-#### Telos Article Splash Banners
+#### Telos 文章素材图片
 
-Splash Banner art for use in online articles about Telos.
+艺术素材图片，请在有关 Telos 的文章中使用。
