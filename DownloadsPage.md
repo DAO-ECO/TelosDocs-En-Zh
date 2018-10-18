@@ -8,6 +8,11 @@ Choose a wallet to store and trade your TLOS tokens.
 
 Sqrl is a fully functional light wallet designed for the TELOS blockchain. This application can be used to connect to a remote TELOS API endpoint to perform producer voting actions and common wallet commands.
 
+Download
+Download
+Download
+Source
+
 ### Documents
 #### White Paper
 We are out to create the best blockchain ever - read the white paper to judge for yourself. Join us and build on Telos.
