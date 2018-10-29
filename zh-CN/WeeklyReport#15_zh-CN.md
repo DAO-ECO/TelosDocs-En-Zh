@@ -4,17 +4,17 @@ Telos 周报告- 2018年10月25日
 
 说完这句话后，让我们等一等。
 
-We could launch Telos today. Different BPs in the Telos Contributors Group have spun up networks almost 30 times checking different parameters. We’ve kept the most recent stage of the testnet alive for over 10 million blocks and almost 150 million transactions. That is more blocks and transactions than many high-value blockchains. So there’s really no arguing whether we could launch the Telos mainnet today. We could.
+我们确实今天就可以上线 Telos。 Telos 贡献者组中的不同 BPs 为检查不同的参数，已测试区块链上线几乎30次了。 我们顺利保持测试网络的最新阶段运行，超过1000万个区块和几乎1.5亿次交易。 这些数字已经比许多现有的高估值区块链都有更多的区块和交易。 所以今天就我们是否有可以上线 Telos 主网的能力，真的无可争议。 我们可以。
 
-But we won’t.
+但我们还不会上线。
 
-We won’t launch the mainnet today or tomorrow, and it’s fairly unlikely that we’ll vote to launch on October 31st. We might, but I’m guessing that we won’t. Why not? Because we will probably still have one checklist item that isn’t green yet.
+我们不会在今天或明天上线主网, 我们也不太可能在10月31日投票上线。 也许会吧，但我猜我们不会。 干嘛不呢？ 因为我们可能还有一个清单项目, 没有变成绿色。
 
-One!
+一个！
 
-The Telos Contributors Group has made promises not to launch the network until all promised features are ready. So if we have one item that’s not a green check mark we won’t launch. And that is KILLING me! It is so hard to know we could launch but not to do it because of one missing checkmark. But it’s the right approach.
+Telos 贡献者小组承诺, 在所有承诺的功能就绪之前, 不启动网络。 所以, 如果我们有一个清单项目不是绿色的, 我们就不会上线。 这点让我很难受！ 明明我们可以上线, 但因为一个未完成的清单项目而不这样做，让我很难受。 但我知道这是正确的方式。
 
-The checkmark in question belongs to the ‘arbitration’ contract. I expect everything else to be done by Wednesday’s vote. The ‘arbitration’ contract is a single contract that handles the election and management of Telos arbitrators, the filing of cases (currently 15 distinct types), the handling of messages between parties, evidence submission, arbitrator recusal, tribunal proceedings, rendering decisions, enforcement by the BPs, and preservation of cases for which there are not enough funds to collect. This is a BIG contract. (One that no one has managed to deliver yet.) For a little perspective, if the Telos ‘arbitration’ contract were a DApp, it would be one of the top 3 most complex DApps in EOSIO. It’s exciting to be working on this, but it’s also frustrating, because — have I mentioned — we could easily launch Telos tomorrow.
+这个清单项目有关 "仲裁" 合同。 I expect everything else to be done by Wednesday’s vote. The ‘arbitration’ contract is a single contract that handles the election and management of Telos arbitrators, the filing of cases (currently 15 distinct types), the handling of messages between parties, evidence submission, arbitrator recusal, tribunal proceedings, rendering decisions, enforcement by the BPs, and preservation of cases for which there are not enough funds to collect. This is a BIG contract. (One that no one has managed to deliver yet.) For a little perspective, if the Telos ‘arbitration’ contract were a DApp, it would be one of the top 3 most complex DApps in EOSIO. It’s exciting to be working on this, but it’s also frustrating, because — have I mentioned — we could easily launch Telos tomorrow.
 
 When we do launch (soon, I pinky-swear), we will deliver all of our promised pieces. Now, we may still have some pieces to improve, like enabling more voting options or adding web portals for submitting proposals — things like that. But these are just conveniences that we will add as we go along. Everything that we promised will be there at launch. We all agree that launching Telos with all our promises fulfilled is more important than launching tomorrow, more important than “being done”, more important that launching on Guy Fawkes Day (Remember, Remember the 5th of November!). And so we will keep working away. A little bit longer. Because standing behind your promises can be agonizing, but it’s always worth it.
 
