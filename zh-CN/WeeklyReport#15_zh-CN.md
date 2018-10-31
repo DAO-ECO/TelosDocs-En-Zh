@@ -22,7 +22,7 @@ Telos 贡献者小组承诺, 在所有承诺的功能就绪之前, 不启动网�
 
 核对清单更新一览
 
-Functional/In Testing → Complete & Tested
+运行/测试中 → 完成测试
 
 Telos Foundation System Agree upon ABP launch group Lost tokens processed (processing will continue until launch) Define final TLOS token balance (EOS snapshot + Rewards +/- lost/compromised keys) Here’s what we accomplished this week:
 
