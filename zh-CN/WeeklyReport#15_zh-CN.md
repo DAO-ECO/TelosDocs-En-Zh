@@ -16,11 +16,11 @@ Telos 贡献者小组承诺, 在所有承诺的功能就绪之前, 不启动网�
 
 这个清单项目有关 "仲裁" 合同。 我希望在星期三的表决之前, 其他一切任务都能完成。 仲裁合同是负责的内容主要包括：处理 Telos 仲裁员的选举和管理, 案件的提交 (目前15不同类型), 当事人之间的信息处理, 证据提交, 仲裁员回避, 法庭程序, 作出决定, 由 BPs 执行, 并保存没有足够资金收集的案件。 这是一份很长而复杂的合同。 (一份尚未有任何区块链完成的合同)。从某种程度来看，如果Telos仲裁合同是一个DApp，它将是EOSIO中最复杂的DApp之一。 这是令人兴奋的工作, 但也令人沮丧, 因为如我之前提到的，我们明天就已经可以很容易地上线Telos了 。
 
-当我们上线时 (很快, 我发誓), 我们将交付所有承诺的功能。 现在, 我们可能还有一些改进的部分, 例如启用更多的投票选项或添加 web 门户来提交建议等等。 但这些是随着上线后可以慢慢加入的新特性。 我们承诺的一切功能都将在上线时完成。 We all agree that launching Telos with all our promises fulfilled is more important than launching tomorrow, more important than “being done”, more important that launching on Guy Fawkes Day (Remember, Remember the 5th of November!). And so we will keep working away. A little bit longer. Because standing behind your promises can be agonizing, but it’s always worth it.
+当我们上线时 (很快, 我发誓), 我们将交付所有承诺的功能。 现在, 我们可能还有一些改进的部分, 例如启用更多的投票选项或添加 web 门户来提交建议等等。 但这些是随着上线后可以慢慢加入的新特性。 我们承诺的一切功能都将在上线时完成。 我们都同意, 保证在Telos上线时履行的所有承诺这件事，比明天上线更重要, 比把上线这件事完成更重要, 比在福克斯日（Guy Fawkes day）上线更重要 (让我们铭记11月5日!)。 所以我们会继续工作。 再多做一点点。 因为完成你的承诺可能是痛苦的, 但它总是值得的。
 
-— Douglas Horn
+作者：道格拉斯·霍恩 (Douglas Horn)
 
-Checklist Updates at a Glance
+核对清单更新一览
 
 Functional/In Testing → Complete & Tested
 
