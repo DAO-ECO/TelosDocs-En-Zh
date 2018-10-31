@@ -24,7 +24,7 @@ Telos 贡献者小组承诺, 在所有承诺的功能就绪之前, 不启动网�
 
 运行/测试中 → 完成测试
 
-Telos Foundation System Agree upon ABP launch group Lost tokens processed (processing will continue until launch) Define final TLOS token balance (EOS snapshot + Rewards +/- lost/compromised keys) Here’s what we accomplished this week:
+Telos 基金会系统. 同意 ABP 启动组. 处理丢失的EOS/TLOS币 (我们将继续处理直到上线). 定义最终 TLOS 币余额 (EOS快照 + 奖励 +/-丢失/被盗的密钥). 这是我们本周完成的:
 
 Testnet 2.6 reaches 10 million blocks, 149 million transactions, 48 BPs Telos ABPs selected Testnet relaunch and voting system improvements Telos key prefix changed (back) from TLOS to EOS More TIPs voted and introduced Telos Interim RAM Administration Director position paper Introducing TLOS: The Telos Token
 
