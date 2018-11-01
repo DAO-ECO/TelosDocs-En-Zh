@@ -26,11 +26,11 @@ Telos 贡献者小组承诺, 在所有承诺的功能就绪之前, 不启动网�
 
 Telos 基金会系统. 同意 ABP 启动组. 处理丢失的EOS/TLOS币 (我们将继续处理直到上线). 定义最终 TLOS 币余额 (EOS快照 + 奖励 +/-丢失/被盗的密钥). 这是我们本周完成的:
 
-Testnet 2.6 reaches 10 million blocks, 149 million transactions, 48 BPs Telos ABPs selected Testnet relaunch and voting system improvements Telos key prefix changed (back) from TLOS to EOS More TIPs voted and introduced Telos Interim RAM Administration Director position paper Introducing TLOS: The Telos Token
+Telos 测试网络版本2.6 出块达到1000万个, 1亿4900万个交易, 48个生产节点 Telos ABPs 被选定 测试网络重新启动，并改进了投票系统 Telos 密钥前缀从 TLOS 改回到 EOS 收到更多的TIP被提出和投票决定 Telos 临时 RAM 管理委员会负责人文件 介绍 TLOS: Telos 代币
 
-1. Testnet 2.6 reaches 10 million blocks, 149 million transactions, 48 BPs
+1. 测试网络2.6 成功出块1000万个, 1亿4900万笔交易, 48个生产节点
 
-The Telos testnet is hitting big milestones. On Wednesday, EOS Green produced the 1- millionth block on this stage of the testnet. Even more impressive, that includes over 149 million transactions thanks to ongoing stress testing by J.T. Buice (Big Iron BP/Kainos). This number signifies Telos’ commitment to launching only with an established and resilient network in place. There are currently 48 block producers who have have either successfully produced blocks on the testnet or are in the process of being rotated in to do so.
+Telos 测试网络正在达到重大的里程碑。 On Wednesday, EOS Green produced the 1- millionth block on this stage of the testnet. Even more impressive, that includes over 149 million transactions thanks to ongoing stress testing by J.T. Buice (Big Iron BP/Kainos). This number signifies Telos’ commitment to launching only with an established and resilient network in place. There are currently 48 block producers who have have either successfully produced blocks on the testnet or are in the process of being rotated in to do so.
 
 2. Telos ABPs selected
 
