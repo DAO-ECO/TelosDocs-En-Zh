@@ -24,19 +24,19 @@ Telos 贡献者小组承诺, 在所有承诺的功能就绪之前, 不启动网�
 
 运行/测试中 → 完成测试
 
-Telos 基金会系统. 同意 ABP 启动组. 处理丢失的EOS/TLOS币 (我们将继续处理直到上线). 定义最终 TLOS 币余额 (EOS快照 + 奖励 +/-丢失/被盗的密钥). 这是我们本周完成的:
+Telos 基金会系统. 共同决定 委任生产节点（ABP） 启动小组. 处理丢失的EOS/TLOS币 (我们将继续处理直到上线). 定义最终 TLOS 币余额 (EOS快照 + 奖励 +/-丢失/被盗的密钥). 这是我们本周完成的:
 
 Telos 测试网络版本2.6 出块达到1000万个, 1亿4900万个交易, 48个生产节点 Telos ABPs 被选定 测试网络重新启动，并改进了投票系统 Telos 密钥前缀从 TLOS 改回到 EOS 收到更多的TIP被提出和投票决定 Telos 临时 RAM 管理委员会负责人文件 介绍 TLOS: Telos 代币
 
 1. 测试网络2.6 成功出块1000万个, 1亿4900万笔交易, 48个生产节点
 
-Telos 测试网络正在达到重大的里程碑。 On Wednesday, EOS Green produced the 1- millionth block on this stage of the testnet. Even more impressive, that includes over 149 million transactions thanks to ongoing stress testing by J.T. Buice (Big Iron BP/Kainos). This number signifies Telos’ commitment to launching only with an established and resilient network in place. There are currently 48 block producers who have have either successfully produced blocks on the testnet or are in the process of being rotated in to do so.
+Telos 测试网络正在达到重大的里程碑。 在星期三, EOS 绿色在这个版本测试网络的生产了1百万区块。 更令人印象深刻的是, 由于 J.T. Buice (铁腕节点/Kainos) 的压力测试, 这一百万块区块包括超过1亿4900万笔交易。 这一数字再次证明了, Telos会实现承诺：建立一个完善而高稳定性的区块链。 目前有48个生产节点成功地在测试网络上生产了区块, 或者正在被交替到生产节点的位置。
 
-2. Telos ABPs selected
+2. Telos ABPs 被选定
 
-The Telos white paper calls for six public appointed block producers (ABPs) to launch the Telos mainnet after a successful “Go” vote. For nearly two weeks, the Launch Directors (see last week’s report) have been running test launches and dialing in various tests. The current count for full network launch rehearsals is 28. Now six Telos BPs have either completed all the requirements or are in the late stages of completing them so that the ABPs who will actually launch the network have been selected. This is a crucial step towards launching the network. The Telos ABPs are Blindblocart (Seychelles), CalEOS (USA), EOS Barcelona (Spain), EOS Metal (Iceland), KainosBP (Texas), and Telos Venezuela (Venezuela). Congrats to all of the newly selected ABPs — our launch is in your very capable hands!
+Telos 白皮书呼吁六个公开任命的区块生产者 (ABPs) 在成功 "Go" 投票后启动 Telos 主网。 近两周来, 上线董事会 (见上周的报告) 一直在进行各种上线测试和进行不同的场景测试。 当前我们一共进行了28次区块链上线测试。 现在六个 Telos 生产节点已经完成、或马上将完成所有的上线要求, 这六个委任生产节点将会负责启动整个Telos主网。 这是迈向启动主网的关键一步。 这些Telos ABPs 分别是Blindblocart (塞舌尔), CalEOS (美国), EOS Barcelona (西班牙), EOS Metal (冰岛), KainosBP (德州), 以及 Telos Venezuela (委内瑞拉). 恭喜所有被选定的ABP，上线的任务放在你们肩上了！
 
-3. Testnet relaunch and voting system improvements
+3. 测试网络重新启动，并改进了投票系统
 
 The code for the final Telos testnet, Stage 3, is complete and in the process of merging. Telos Testnet Stage 3 is scheduled to be launched by one of the ABPs from the launch rehearsal group next week. This is expected to be the version of the testnet that continues beyond launch for the foreseeable future. This version will bring several new improvements and features including the injection of the Telos genesis accounts and key-recovery accounts submitted to date. Telos community members will be able to join the network, find their accounts and build their confidence and excitement about the upcoming launch.
 
