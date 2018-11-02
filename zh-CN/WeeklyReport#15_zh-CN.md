@@ -68,9 +68,9 @@ TIP-27：为RAM管理创建专门留存的的RAM。 提议人 - Telos Foundation
 
 记录：https://github.com/Telos-Foundation/tips/blob/master/tip-0027.md
 
-TIP-28: Modifying the TLOS token economy. Introduced for consideration by Ian Panchevre (Amplified Telos).
+TIP - 28：修改TLOS代币宏观经济。 Introduced for consideration by Ian Panchevre (Amplified Telos).
 
-https://github.com/Telos-Foundation/tips/blob/master/tip-0028.md
+记录：https://github.com/Telos-Foundation/tips/blob/master/tip-0028.md
 
 6. Telos 临时 RAM 管理委员会负责人文件完成
 
