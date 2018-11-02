@@ -40,9 +40,9 @@ Telos 白皮书呼吁六个公开任命的区块生产者 (ABPs) 在成功 "Go" 
 
 最终的Telos 测试网络最后一版本第3阶段的代码，已开发完成。 Telos 测试网络第3阶段计划在下周由小组中的一名ABP发布。 预计这将是由测试网络推及主网的的代码版本。 该版本将带来一些新的改进和功能，包括注入Telos创世账户和迄今为止提交的密钥恢复账户。 Telos社区成员将能够加入网络，找到他们的帐户，并建立他们对Telos主网上线的信心和热情。
 
-Craig Branscom（GoodBlock）一直主导开发团队开发投票系统：用于worker proposal，ratify.amend 和 arbitration 合同。 In the previous version of this system, Madalin Barbulescu (Amplified Telos) discovered that a loophole in the voting process would enable a member to vote multiple times in the same election cycle. This was eliminated by revisions from Craig, Madalin, Peter Bue and Ed Silva.
+Craig Branscom（GoodBlock）一直主导开发团队开发投票系统：用于worker proposal，ratify.amend 和 arbitration 合同。 在本系统的早期版本中, Madalin Barbulescu (Amplified Telos) 发现投票过程中的漏洞使投票者可以在同一选举周期内多次投票。 这个bug被Craig, Madalin, Peter Bue 和 Ed Silva 修正。
 
-Ed Silva (GoodBlock) refined the ‘removebp’ feature which removes block producers for missing too many blocks (so that other BPs can cycle in and hopefully provide better operations for a period of time). Madalin Barbulescu, and the rest of the Telos development team contributed feedback towards the solution to many edge cases that were revealed in stress-testing.
+Ed Silva (GoodBlock) 改善了 "removebp" 功能, 它会剔除错失太多区块的生产节点 (以便其他 BPs 可以循环, 并在一段时间希望提供更好的操作)。 Madalin Barbulescu 和 Telos 开发团队的其他成员为压力测试中显现的许多特殊情况提供修正。
 
 The development team has also designed a new, more robust ‘eosio.system’ system to resolve the issue of latency in the blockchain that caused additional missed blocks to be calculated where none existed. Additionally, the ‘trail service’, ‘ratify.amend’, and ‘worker.proposal’ contracts are being merged to the source repository and the newly forked ‘eosio.contracts’ repository so that Telos is compatible with future upstream merges.
 
