@@ -38,7 +38,7 @@ Telos 白皮书呼吁六个公开任命的区块生产者 (ABPs) 在成功 "Go" 
 
 3. 测试网络重新启动，并改进了投票系统
 
-The code for the final Telos testnet, Stage 3, is complete and in the process of merging. Telos Testnet Stage 3 is scheduled to be launched by one of the ABPs from the launch rehearsal group next week. This is expected to be the version of the testnet that continues beyond launch for the foreseeable future. This version will bring several new improvements and features including the injection of the Telos genesis accounts and key-recovery accounts submitted to date. Telos community members will be able to join the network, find their accounts and build their confidence and excitement about the upcoming launch.
+最终的Telos 测试网络最后一版本第3阶段的代码，已开发完成。 Telos 测试网络第3阶段计划在下周由小组中的一名ABP发布。 预计这将是由测试网络推及主网的的代码版本。 该版本将带来一些新的改进和功能，包括注入Telos创世账户和迄今为止提交的密钥恢复账户。 Telos community members will be able to join the network, find their accounts and build their confidence and excitement about the upcoming launch.
 
 Craig Branscom (GoodBlock) has been leading the development team in refactoring the voting system being used on the ‘worker proposal’, ‘ratify.amend’, and ‘arbitration’ contracts. In the previous version of this system, Madalin Barbulescu (Amplified Telos) discovered that a loophole in the voting process would enable a member to vote multiple times in the same election cycle. This was eliminated by revisions from Craig, Madalin, Peter Bue and Ed Silva.
 
@@ -48,11 +48,11 @@ The development team has also designed a new, more robust ‘eosio.system’ sys
 
 Marlon Williams (EOS Miami) designed a new user interface for the Sqrl wallet to streamline the Worker Proposal submission process. Users will be able to propose, read, and vote WPS proposals from the main Sqrl interface. Marlon is currently working on adding interfaces for the ‘ratify.amend’, ‘arbitration’, and generic TIP-5 token voting contracts so that they will be easily used through Sqrl after launch.
 
-4. Telos key prefix changed (back) from TLOS to EOS
+4. Telos 密钥前缀从 TLOS 改回到 EOS
 
 When the Telos project first began, we anticipated there would soon be dozens of similar EOSIO chains and that as a convenience to users, changing the public key prefix would allow easy identification of which chain keys belonged to. Now, due to coding changes by Block.One, Scatter, and others, it became clear that it will be more convenient for users to have Telos public keys start with the EOS prefix as key prefixes are soon to be changed altogether and only ‘EOS’ will be preserved as a legacy key prefix. There are more immediate advantages as well including better Scatter integration at launch. The new code will go into the testnet with the EOS prefix upon launch of Stage 3. In fact, the new (old?) key prefix is the main reason for relaunching the testnet.
 
-5. More TIPs voted and introduced
+5. 收到更多的TIP被提出和投票决定
 
 Several Telos Improvement Proposals (TIPs) were proposed, voted on and withdrawn this week as the Telos Launch Group continues to propose changes to network governance and operations.
 
@@ -72,19 +72,19 @@ TIP-28: Modifying the TLOS token economy. Introduced for consideration by Ian Pa
 
 https://github.com/Telos-Foundation/tips/blob/master/tip-0028.md
 
-6. Telos Interim RAM Administration Director position paper
+6. Telos 临时 RAM 管理委员会负责人文件完成
 
 This paper by Interim RAM Administration Director Jan Smit (Dutch EOS) defines the roles of the RAM director and RAM advisory council and their obligation to establish fair and stable RAM prices on Telos. The document expands on the RAM specifications outlined in the Telos white paper by holding specific roles within the Telos Foundation accountable for maintaining a functional RAM pricing and distribution system.
 
 Jan and Douglas Horn (GoodBlock) spoke for an hour on Telos Talks, Weds Oct. 24th about how RAM will work on Telos, how Jan’s office will work with block producers to limit speculation, and to vigorously debate the merits and concerns around Jan’s TIP-28 proposal. It’s required reading for anyone interested in RAM on Telos, especially prospective speculators.
 
-Read the full document here: https://medium.com/@teloslogical/telos-interim-ram-administration-director-position-paper-ace4aaf7c467
+阅读整个文件：https://medium.com/@teloslogical/telos-interim-ram-administration-director-position-paper-ace4aaf7c467
 
-See the Telos Talks show here:
+查看Telos脱口秀：
 
 https://www.youtube.com/watch?v=J_-O2CIe090
 
-7. Introducing TLOS: The Telos Token
+7. 介绍 TLOS: Telos 代币
 
 Read this comprehensive guide to the TLOS token to learn how to acquire TLOS and about the many ways they can be used and exchanged on Telos. The guide also explains about how TLOS tokens will be distributed to community members including launch group contributors and EOS genesis snapshot token holders. If you’re looking for one paper to share with friends about Telos, this is it!
 
