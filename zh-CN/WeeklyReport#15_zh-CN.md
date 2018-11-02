@@ -38,9 +38,9 @@ Telos 白皮书呼吁六个公开任命的区块生产者 (ABPs) 在成功 "Go" 
 
 3. 测试网络重新启动，并改进了投票系统
 
-最终的Telos 测试网络最后一版本第3阶段的代码，已开发完成。 Telos 测试网络第3阶段计划在下周由小组中的一名ABP发布。 预计这将是由测试网络推及主网的的代码版本。 该版本将带来一些新的改进和功能，包括注入Telos创世账户和迄今为止提交的密钥恢复账户。 Telos community members will be able to join the network, find their accounts and build their confidence and excitement about the upcoming launch.
+最终的Telos 测试网络最后一版本第3阶段的代码，已开发完成。 Telos 测试网络第3阶段计划在下周由小组中的一名ABP发布。 预计这将是由测试网络推及主网的的代码版本。 该版本将带来一些新的改进和功能，包括注入Telos创世账户和迄今为止提交的密钥恢复账户。 Telos社区成员将能够加入网络，找到他们的帐户，并建立他们对Telos主网上线的信心和热情。
 
-Craig Branscom (GoodBlock) has been leading the development team in refactoring the voting system being used on the ‘worker proposal’, ‘ratify.amend’, and ‘arbitration’ contracts. In the previous version of this system, Madalin Barbulescu (Amplified Telos) discovered that a loophole in the voting process would enable a member to vote multiple times in the same election cycle. This was eliminated by revisions from Craig, Madalin, Peter Bue and Ed Silva.
+Craig Branscom（GoodBlock）一直主导开发团队开发投票系统：用于worker proposal，ratify.amend 和 arbitration 合同。 In the previous version of this system, Madalin Barbulescu (Amplified Telos) discovered that a loophole in the voting process would enable a member to vote multiple times in the same election cycle. This was eliminated by revisions from Craig, Madalin, Peter Bue and Ed Silva.
 
 Ed Silva (GoodBlock) refined the ‘removebp’ feature which removes block producers for missing too many blocks (so that other BPs can cycle in and hopefully provide better operations for a period of time). Madalin Barbulescu, and the rest of the Telos development team contributed feedback towards the solution to many edge cases that were revealed in stress-testing.
 
@@ -74,9 +74,9 @@ https://github.com/Telos-Foundation/tips/blob/master/tip-0028.md
 
 6. Telos 临时 RAM 管理委员会负责人文件完成
 
-This paper by Interim RAM Administration Director Jan Smit (Dutch EOS) defines the roles of the RAM director and RAM advisory council and their obligation to establish fair and stable RAM prices on Telos. The document expands on the RAM specifications outlined in the Telos white paper by holding specific roles within the Telos Foundation accountable for maintaining a functional RAM pricing and distribution system.
+临时RAM管理负责人Jan Smit（Dutch EOS）的这篇文章定义了RAM主管和RAM咨询委员会的作用，以及他们在Telos上建立公平稳定的RAM价格的义务。 该文件扩展了Telos白皮书中概述的RAM规范，通过在Telos Foundation中担任特定角色来负责维护可靠的RAM定价和分发系统。
 
-Jan and Douglas Horn (GoodBlock) spoke for an hour on Telos Talks, Weds Oct. 24th about how RAM will work on Telos, how Jan’s office will work with block producers to limit speculation, and to vigorously debate the merits and concerns around Jan’s TIP-28 proposal. It’s required reading for anyone interested in RAM on Telos, especially prospective speculators.
+Jan和Douglas Horn（GoodBlock）10月24日在Telos会谈中讲了一个小时， 讲述了RAM如何在Telos上工作，Jan的职能将如何与区块生产节点合作以限制投机，并充分辩论了Jan的TIP-28提案的优点和顾虑。 建议对Telos的RAM感兴趣的人，特别是潜在的投机者进行阅读。
 
 阅读整个文件：https://medium.com/@teloslogical/telos-interim-ram-administration-director-position-paper-ace4aaf7c467
 
@@ -86,8 +86,8 @@ https://www.youtube.com/watch?v=J_-O2CIe090
 
 7. 介绍 TLOS: Telos 代币
 
-Read this comprehensive guide to the TLOS token to learn how to acquire TLOS and about the many ways they can be used and exchanged on Telos. The guide also explains about how TLOS tokens will be distributed to community members including launch group contributors and EOS genesis snapshot token holders. If you’re looking for one paper to share with friends about Telos, this is it!
+阅读此TLOS代币综合指南，了解如何获取TLOS以及在Telos上使用和交易它们的多种方式。 该指南还解释了如何将TLOS代币分发给社区成员，包括上线组贡献者和EOS创世快照代币持有者。 如果你正在寻找一篇文章分享关于有关Telos的一切，这篇就是了！
 
-Read the full TLOS guide here: https://medium.com/@teloslogical/introducing-tlos-the-telos-token-d6af451e161f
+阅读完成的TLOS指南： https://medium.com/@teloslogical/introducing-tlos-the-telos-token-d6af451e161f
 
-Join the Telos conversation and get more info!
+加入Telos社区，了解更多信息！
