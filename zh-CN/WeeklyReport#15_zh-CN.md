@@ -44,13 +44,13 @@ Craig Branscom（GoodBlock）一直主导开发团队开发投票系统：用于
 
 Ed Silva (GoodBlock) 改善了 "removebp" 功能, 它会剔除错失太多区块的生产节点 (以便其他 BPs 可以循环, 并在一段时间希望提供更好的操作)。 Madalin Barbulescu 和 Telos 开发团队的其他成员为压力测试中显现的许多特殊情况提供修正。
 
-开发团队还设计了一个新的、更健壮的 "eosio.system" 系统来解决区块链中的延迟问题, 从解决了错误计数遗漏区块的情况。 Additionally, the ‘trail service’, ‘ratify.amend’, and ‘worker.proposal’ contracts are being merged to the source repository and the newly forked ‘eosio.contracts’ repository so that Telos is compatible with future upstream merges.
+开发团队还设计了一个新的、更健壮的 "eosio.system" 系统来解决区块链中的延迟问题, 从解决了错误计数遗漏区块的情况。 此外, "trail service"、"ratify.amend" 和 "worker.proposal" 合同正在合并到源代码库和新分叉的 "eosio.contracts" 代码库, 以便 Telos 与未来的代码更新兼容。
 
-Marlon Williams (EOS Miami) designed a new user interface for the Sqrl wallet to streamline the Worker Proposal submission process. Users will be able to propose, read, and vote WPS proposals from the main Sqrl interface. Marlon is currently working on adding interfaces for the ‘ratify.amend’, ‘arbitration’, and generic TIP-5 token voting contracts so that they will be easily used through Sqrl after launch.
+Marlon Williams (EOS Miami) 为 Sqrl 钱包设计了一个新的用户界面, 以简化 Worker Proposal 提交过程。 用户将能够从Sqrl主界面提交，阅读和WPS提案，并对其进行投票。 Marlon目前正致力于为“approvedy.amend”，“ arbitration”和TIP-5代币投票合同添加接口，以便在发布后通过Sqrl轻松使用它们。
 
 4. Telos 密钥前缀从 TLOS 改回到 EOS
 
-When the Telos project first began, we anticipated there would soon be dozens of similar EOSIO chains and that as a convenience to users, changing the public key prefix would allow easy identification of which chain keys belonged to. Now, due to coding changes by Block.One, Scatter, and others, it became clear that it will be more convenient for users to have Telos public keys start with the EOS prefix as key prefixes are soon to be changed altogether and only ‘EOS’ will be preserved as a legacy key prefix. There are more immediate advantages as well including better Scatter integration at launch. The new code will go into the testnet with the EOS prefix upon launch of Stage 3. In fact, the new (old?) key prefix is the main reason for relaunching the testnet.
+当Telos项目首次开始时，我们预计很快就会有数十个类似的EOSIO链，我们为了方便用户，更改了公钥前缀，并希望借此让用户可以轻松识别一个密钥属于哪个链。 Now, due to coding changes by Block.One, Scatter, and others, it became clear that it will be more convenient for users to have Telos public keys start with the EOS prefix as key prefixes are soon to be changed altogether and only ‘EOS’ will be preserved as a legacy key prefix. There are more immediate advantages as well including better Scatter integration at launch. The new code will go into the testnet with the EOS prefix upon launch of Stage 3. In fact, the new (old?) key prefix is the main reason for relaunching the testnet.
 
 5. 收到更多的TIP被提出和投票决定
 
