@@ -50,23 +50,23 @@ Marlon Williams (EOS Miami) 为 Sqrl 钱包设计了一个新的用户界面, �
 
 4. Telos 密钥前缀从 TLOS 改回到 EOS
 
-当Telos项目首次开始时，我们预计很快就会有数十个类似的EOSIO链，我们为了方便用户，更改了公钥前缀，并希望借此让用户可以轻松识别一个密钥属于哪个链。 Now, due to coding changes by Block.One, Scatter, and others, it became clear that it will be more convenient for users to have Telos public keys start with the EOS prefix as key prefixes are soon to be changed altogether and only ‘EOS’ will be preserved as a legacy key prefix. There are more immediate advantages as well including better Scatter integration at launch. The new code will go into the testnet with the EOS prefix upon launch of Stage 3. In fact, the new (old?) key prefix is the main reason for relaunching the testnet.
+当Telos项目首次开始时，我们预计很快就会有数十个类似的EOSIO链，我们为了方便用户，更改了公钥前缀，并希望借此让用户可以轻松识别一个密钥属于哪个链。 现在，由于Block.One，Scatter和其他人的编码更改，我们发现保留EOS前缀开头对更方便，因为密钥前缀很快就会完全改变而且只有'EOS '将保留为旧密钥前缀。 此外，保留EOS前缀还有其他一些更直接的优势，包括在发布时更好的Scatter集成等等。 在启动阶段3时，测试网络的新代码将使用EOS前缀。 事实上，对密钥前缀的修改是重新启动测试网络的主要原因。
 
 5. 收到更多的TIP被提出和投票决定
 
-Several Telos Improvement Proposals (TIPs) were proposed, voted on and withdrawn this week as the Telos Launch Group continues to propose changes to network governance and operations.
+随着Telos上线组的多项改变区块链治理和运营的提议，本周对几项Telos改进提案（TIP）进行了投票和撤回。
 
-TIPs 15–19 were previously withdrawn from consideration by Ian Panchevre of Amplified Telos, who later requested a down vote on these TIPs as a formality for closing the proposal process. All TIPs were voted down with a vote of: Yes — 0, No — 30, Abstain — 0
+之前由Amplified Telos的Ian Panchevre审议了TPL 15-19，后者要求对这些TIP进行投票，作为结束提案流程的正式手续。 所有的几项TIP都投票否决，投票结果为：是 - 0，否 - 30，弃权 - 0
 
-Text: https://github.com/Telos-Foundation/tips/blob/master/tip-0015.md
+记录：https://github.com/Telos-Foundation/tips/blob/master/tip-0015.md
 
-TIP-23: Increase block producer inflation on a one year schedule. This sets a very focused schedule for additional inflation for block producers for BPs. Passed with a vote of: Yes — 28, No — 3, Abstain — 6.
+TIP - 23：在一年的内增加块生产节点的通货膨胀率。 这为区块生产节点设定了一个非常集中的日程。 通过投票：是 - 28，否 - 3，弃权 - 6。
 
-Text: https://github.com/Telos-Foundation/tips/blob/master/tip-0023.md
+记录：https://github.com/Telos-Foundation/tips/blob/master/tip-0023.md
 
-TIP-27 Title: Creating a RAM reserve for RAM Administration. Introduced for consideration by Telos Foundation Interim RAM Administration Director, Jan Smit (Dutch EOS)
+TIP-27：为RAM管理创建专门留存的的RAM。 提议人 - Telos Foundation临时RAM管理负责任 Jan Smit（Dutch EOS）
 
-https://github.com/Telos-Foundation/tips/blob/master/tip-0027.md
+记录：https://github.com/Telos-Foundation/tips/blob/master/tip-0027.md
 
 TIP-28: Modifying the TLOS token economy. Introduced for consideration by Ian Panchevre (Amplified Telos).
 
