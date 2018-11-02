@@ -44,7 +44,7 @@ Craig Branscom（GoodBlock）一直主导开发团队开发投票系统：用于
 
 Ed Silva (GoodBlock) 改善了 "removebp" 功能, 它会剔除错失太多区块的生产节点 (以便其他 BPs 可以循环, 并在一段时间希望提供更好的操作)。 Madalin Barbulescu 和 Telos 开发团队的其他成员为压力测试中显现的许多特殊情况提供修正。
 
-The development team has also designed a new, more robust ‘eosio.system’ system to resolve the issue of latency in the blockchain that caused additional missed blocks to be calculated where none existed. Additionally, the ‘trail service’, ‘ratify.amend’, and ‘worker.proposal’ contracts are being merged to the source repository and the newly forked ‘eosio.contracts’ repository so that Telos is compatible with future upstream merges.
+开发团队还设计了一个新的、更健壮的 "eosio.system" 系统来解决区块链中的延迟问题, 从解决了错误计数遗漏区块的情况。 Additionally, the ‘trail service’, ‘ratify.amend’, and ‘worker.proposal’ contracts are being merged to the source repository and the newly forked ‘eosio.contracts’ repository so that Telos is compatible with future upstream merges.
 
 Marlon Williams (EOS Miami) designed a new user interface for the Sqrl wallet to streamline the Worker Proposal submission process. Users will be able to propose, read, and vote WPS proposals from the main Sqrl interface. Marlon is currently working on adding interfaces for the ‘ratify.amend’, ‘arbitration’, and generic TIP-5 token voting contracts so that they will be easily used through Sqrl after launch.
 
