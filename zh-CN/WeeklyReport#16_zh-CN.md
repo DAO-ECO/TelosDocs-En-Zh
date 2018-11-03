@@ -1,10 +1,10 @@
 Telos 周报告#15–2018年11月1日
 
-Finding bugs now so they don’t find us later
+我们正尝试找到漏洞, 这样他们以后就不会来找我们
 
-The Telos Launch Group reconvened on Halloween to decide whether to launch Telos. Since there were still a few yellow dots on the launch checklist, we quickly voted NO. The next vote will be on November 7th. If you’re a close observer or good at math, you’ll notice that this is just one week after the previous launch, rather than two weeks. We’re close enough that it’s measured in single weeks. That’s progress, I guess.
+Telos 上线小组在万圣节再次召开会议, 决定是否上线 Telos。 由于上线清单上还有一些黄点, 我们很快就投了反对票。 下一次投票将在11月7日进行。 如果你是一个密切关注Telos或者擅长数学的人, 你会注意到这一次投票只是在上一次上线投票后的一周, 而不是两周。 我们已经足够接近了，每次衡量仅需要一周时间。 我想这就是进步。
 
-Last week I shared my personal excitement and eagerness about launching Telos, but thank goodness we didn’t. After the vote, we experienced a bug on our Stage-net (a private testnet used solely to practice the launch or test new code prior to implementing it on the mainnet). Do we like new bugs? No. Would we rather find them before launch? Hell yeah. We’ve updated the development tag to version 2.7.1 and will hopefully be deploying a new testnet tomorrow. Yes, I’ve said that before. Almost every day for over a week. But again, we are squashing bugs. There’s a reason why great ideas like rotating BPs or removing those that aren’t producing are not yet implemented in the EOSIO code: they are hard and there are many potential pitfalls. That’s why we are running dozens of practice launch scenarios. How many is it up to now? I’ve stopped counting.
+上周我分享了我个人对上线 Telos 的兴奋和渴望, 但谢天谢地, 我们没有上线。 投票后, 我们在展示网络 (专用测试网络仅用于在主网上实现新代码之前练习启动或测试新代码)上遇到了一个 bug。 我们喜欢新bug吗？ 当然不。 我们宁愿在上线前找到他们吗？ 当然是。 我们已将开发代码标记更新为2.7.1 版本, 希望明天将部署一个新的测试网。 这句话我之前说过。 在一个多星期的时间里, 几乎每天都会说。 但同时, 我们正在解决这些bugs。 像循环 bp 或暂时踢出那些没有的生产的节点这些好主意还没有在 eosio 代码中实现, 这是有原因的: 开发它们很难, 有很多潜在的陷阱。 这就是为什么我们在上线前要进行数十次演练。 到现在已经有多少次了？ I’ve stopped counting.
 
 The TLG had a pretty big vote on Tuesday regarding TIP-24. It may not be popular with some people, but I do not want to bury it and hope no one notices. That is not in the spirit of transparency, which is a pillar of the Telos philosophy. So here goes, sharpen your pitchforks. The TLG voted to increase the Telos Founders Rewards Pool from 6 million TLOS to 18 million. That’s a big jump. Are we just “voting ourselves rich”? You can watch the video of the meeting which was live-streamed, as all our TLG meetings are, but let me offer a TL;DR. When I proposed Telos in July, the founders reward was 6 million TLOS. The expected time scale was also about six weeks and we expected just six ABPs to do all the core work. How did that turn out?
 
