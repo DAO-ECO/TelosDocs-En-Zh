@@ -22,7 +22,7 @@ Telos上线'Go / No-Go'投票； FINDEX上币EOS / TLOS交易对； Telos修正�
 
 1. Telos上线'Go / No-Go'投票
 
-The TLG voted ‘no-go’ on launching the network on October 31, 2018 with a vote of: Yes-1, No-23. As with the previous ‘go/no-go’ vote, the decision was made because not all of Launch Checklist items are completed. The next vote is scheduled for November 7th.
+TLG于2018年10月31日以投票：同意-1，不同意-23的票数决定不进行上线。 与之前的“go/no go”投票一样，做出决定的元音是因为启动清单项目并非所有都已完成。 下一次投票将在11月7日进行。
 
 Watch the most recent Go/No-Go vote here: https://www.youtube.com/watch?v=5b3fVxTa2RY
 
@@ -78,13 +78,13 @@ Learn more about the Community Rewards Program here: https://telosfoundation.io/
 
 Check out the Telegram channel to ask questions, resolve technical issues, and meet other community members: https://t.me/teloscommunityrewardsgroup
 
-7. Sharedrop Token Recovery Submissions
+7. Sharedrop代币恢复提交
 
 Are you an EOS genesis snapshot token holder but lost your keys or otherwise had them compromised? Fortunately, you can still get your Telos sharedrop through our token recovery program. Submissions have nearly doubled in the last week, so make sure that you sign up before the program ends at the network launch date.
 
 Read more about Token Recovery here: https://telosfoundation.io/recovery
 
-8. New Website and White Paper Translations
+8. 新的网站与白皮书翻译
 
 Translating important organizational documents is critical to expanding Telos’ global community. The Telos Launch Group recently released website translations in Spanish, Portuguese and Russian, and translated the white paper into Russian as well.
 
