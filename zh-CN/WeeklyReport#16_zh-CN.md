@@ -10,13 +10,13 @@ Telos 上线小组在万圣节再次召开会议, 决定是否上线 Telos。 �
 
 我们已经将项目进行到了 11月, 希望很快可以上线，有超过120个贡献者和大量已经完全实现和完成测试的新功能, 以及另外三个已经几乎实现或在测试中的功能。 这些新功能需要做的工作比我们想象的要多很多。 我们还有一份篇幅中长的治理文件，而我们原本以为它仅仅会是对宪法的小修改。 创建这些文档和功能向我们展示了创建一个新区块链的复杂性。 现在的它比我们预期的好的多了。 就像我们在功能中发现的错误或漏洞一样, 我们治理中揭示的漏洞让我们有幸能够现在处理这些问题, 而不是在网络运行的时候。 当然, 这并不意味着我们在上线后不会有问题，只是我们不会再遇到这些问题了。
 
-所以总结来说, 我们花了最初所期待的10倍的人力，多3倍的时间来完成这项 任务。 而这些努力推动项目的人们觉得自己创造的价值需要更多的补偿。 这点很难反驳。 作为对比, 考虑到 EOS 在 ICO 中筹集了40亿美元, 并将所有代币的90% 返还给 EOS 社区。 Worbli, 另一个EOSIO区块链，准备在私募中筹集未公开数额的资金，只将36%的代币返还给EOS社区 (当然它们这么做是合理合法的）。相比之下, Telos 并未在ICO 或私募中中筹集一分钱, 即使在本周增长奖励池后, 也会将 93% 的代币返还给EOS社区。 TLG 现在将收到5%的代币, 这部分资金将交给 Telos 基金会以推广网络, 提供 RAM 基金, 为我们的仲裁员提供责任保险和引导资金, 并为首批 100万个新用户提供免费账户, 以及类似的促销和运营目的。 A 5% “pre-mine” for the founders is pretty low for any blockchain project, especially in these heady ICO days. But the TLG is aware that the network exists for the users and we don’t intend to make this a habit.
+所以总结来说, 我们花了最初所期待的10倍的人力，多3倍的时间来完成这项 任务。 而这些努力推动项目的人们觉得自己创造的价值需要更多的补偿。 这点很难反驳。 作为对比, 考虑到 EOS 在 ICO 中筹集了40亿美元, 并将所有代币的90% 返还给 EOS 社区。 Worbli, 另一个EOSIO区块链，准备在私募中筹集未公开数额的资金，只将36%的代币返还给EOS社区 (当然它们这么做是合理合法的）。相比之下, Telos 并未在ICO 或私募中中筹集一分钱, 即使在本周增长奖励池后, 也会将 93% 的代币返还给EOS社区。 TLG 现在将收到5%的代币, 这部分资金将交给 Telos 基金会以推广网络, 提供 RAM 基金, 为我们的仲裁员提供责任保险和引导资金, 并为首批 100万个新用户提供免费账户, 以及类似的促销和运营目的。 对于任何区块链项目来说, 5% 的 预挖矿都是相当低的, 尤其是在这个热闹的ICO时代。 但是 TLG 意识到网络是为用户而存在的, 因此我们不希望高额的预挖矿成为时代的习惯。
 
-Progress continues at a pace much faster than what’s reflected on the Checklist at the moment. We are finishing everything, pushing the limits so that problems show up now instead of on the live chain. We are close to launching — so close it hurts. That doesn’t mean we’re certain to launch on November 7th. But we might. Keep watching those checkmarks!
+目前我们进展的速度远远快于在核对清单上显示出来的速度。 我们正在完成一切，挑战极限，以便问题出现在现在而不是未来。 我们接近上线 - 如此接近以至于我们迫不及待到有些疼痛。 这并不意味着我们肯定会在11月7日推出。 但我们可能会。 让我们时刻关注任务清单！
 
-— Douglas Horn
+作者：道格拉斯·霍恩 (Douglas Horn)
 
-Here’s what we accomplished this week:
+我们本周的成果：
 
 Telos Network Launch ‘Go/No-Go’ Vote FINDEX to list EOS/TLOS TIP Updates Development Updates IPFS Cluster Established Community Rewards Program Submissions Sharedrop Token Recovery Submissions New Website and White Paper Translations
 
