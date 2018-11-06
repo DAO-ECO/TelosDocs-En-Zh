@@ -18,9 +18,9 @@ Telos 上线小组在万圣节再次召开会议, 决定是否上线 Telos。 �
 
 我们本周的成果：
 
-Telos Network Launch ‘Go/No-Go’ Vote FINDEX to list EOS/TLOS TIP Updates Development Updates IPFS Cluster Established Community Rewards Program Submissions Sharedrop Token Recovery Submissions New Website and White Paper Translations
+Telos上线'Go / No-Go'投票； FINDEX上币EOS / TLOS交易对； Telos修正提案（TIP）更新； 开发更新； IPFS集群成立； 社区奖励计划提交； Sharedrop代币恢复提交； 新的网站与白皮书翻译；
 
-1. Telos Network Launch ‘Go/No-Go’ Vote
+1. Telos上线'Go / No-Go'投票
 
 The TLG voted ‘no-go’ on launching the network on October 31, 2018 with a vote of: Yes-1, No-23. As with the previous ‘go/no-go’ vote, the decision was made because not all of Launch Checklist items are completed. The next vote is scheduled for November 7th.
 
@@ -28,13 +28,13 @@ Watch the most recent Go/No-Go vote here: https://www.youtube.com/watch?v=5b3fVx
 
 View the Launch Checklist here: https://telosfoundation.io/launch
 
-2. FINDEX to list EOS/TLOS
+2. FINDEX上币EOS / TLOS交易对
 
 FINDEX, a decentralized exchange built on EOS.IO, will list a TLOS/EOS trading pair. The DEX features a customizable trading platform that easily integrates into DApps and wallets.
 
 Read the full press release here: https://medium.com/@teloslogical/press-release-telos-to-list-on-findex-e73025ac7839
 
-3. TIP Updates
+3. Telos修正提案（TIP）更新
 
 The Telos Launch Contributors spent much of this week discussing several TIP submissions, revisions, votes and retractions, which lead to larger conversations about voting and governance processes within the group. TIP-24 increases the Telos Founders Rewards Pool from 6 million to 18 million TLOS due to the larger number of contributors and much longer time scale than originally anticipated. TIP-3 establishes that Telos will provide ongoing snapshots of the Telos “original” snapshot 29 days after activation and ongoing recent snapshots as the network progresses. The aim of this is to provide a central repository to preserve system resources and not place the burden of snapshots on the Dapps performing airdrops. This is expected to greatly reduce the cost of performing full airdrops on Telos, especially in conjunction with the features of TIP-5 standard tokens. The TIP-5 token standard was also formally adopted. It has been in use for nearly two months on the Telos testnet and EOS mainnet. TIP-27 proposes giving the Telos Foundation RAM Administration Director the ability to purchase RAM early and release it to the network later in order to avoid an initial spike in RAM prices. It was defeated but will be re-voted in a revised form on Friday, November 2.
 
@@ -52,7 +52,7 @@ TIP-27: A controlled RAM launch on Telos. Not approved with a vote of: Yes-20, A
 
 https://github.com/Telos-Foundation/tips/blob/master/tip-0027.md
 
-4. Development updates
+4. 开发更新
 
 Calculating missed blocks v.2 has been implemented by Ed Silva and is being tested by the launch directors and ABPs. If deemed acceptible, this will add a new green checkmark to the launch page.
 
@@ -60,7 +60,7 @@ A bug was discovered during a Stagenet test that caused issues with schedule pro
 
 The Telos development team is currently merging system contracts into the newly forked ‘eosio.contracts’ repository. This new repository uses the ‘eosio.cdt’. The most recent release of the EOSIO CDT has many breaking changes. This shift to the ‘eosio.contracts’ repository will require the Telos developing team to refactor our contracts. However, this should be a one-time change that puts the Telos code in a position for faster code updates going forward.
 
-5. IPFS Cluster Established
+5. IPFS集群成立
 
 Several Telos contributors are working on implementing IPFS — the interplanetary file system, which is a blockchain-friendly form of decentralized yet secure storage. This has been expected on EOSIO for some time, but is not yet implemented. Because several Telos governance functions such as worker proposals and ratify/amend proposals require IPFS, TLG members are working to implement it now. This will be an enormous benefit to Dapp developers who are also eager to have this tool at their disposal.
 
@@ -68,7 +68,7 @@ Marlon Williams of EOS Miami first implemented an IPFS server in order to implem
 
 Learn how to join the Telos IPFS testnet here: https://gist.github.com/StephanieSunshine/92a3af3fc8577103906ff8142a4349f5
 
-6. Community Rewards Program Submissions
+6. 社区奖励计划提交
 
 Note: The sign-up time for the Telos Community Rewards Pool program will be ending Nov. 6th.
 
