@@ -24,68 +24,68 @@ Telos上线'Go / No-Go'投票； FINDEX上币EOS / TLOS交易对； Telos修正�
 
 TLG于2018年10月31日以投票：同意-1，不同意-23的票数决定不进行上线。 与之前的“go/no go”投票一样，做出决定的元音是因为启动清单项目并非所有都已完成。 下一次投票将在11月7日进行。
 
-Watch the most recent Go/No-Go vote here: https://www.youtube.com/watch?v=5b3fVxTa2RY
+在这里观看最近的 "Go/No-Go" 投票: https://www.youtube.com/watch？v=5b3fVxTa2RY
 
-View the Launch Checklist here: https://telosfoundation.io/launch
+在此处查看启动清单: https://telosfoundation.io/launch
 
 2. FINDEX上币EOS / TLOS交易对
 
-FINDEX, a decentralized exchange built on EOS.IO, will list a TLOS/EOS trading pair. The DEX features a customizable trading platform that easily integrates into DApps and wallets.
+FINDEX, 一个建立在 EOS.IO 上的去中心化交易所，将上线 TLOS/EOS 交易对。 DEX 功能具有可定制的交易平台, 可轻松集成到 Dapp 和钱包中。
 
-Read the full press release here: https://medium.com/@teloslogical/press-release-telos-to-list-on-findex-e73025ac7839
+查看完整内容：https://medium.com/@teloslogical/press-release-telos-to-list-on-findex-e73025ac7839
 
 3. Telos修正提案（TIP）更新
 
-The Telos Launch Contributors spent much of this week discussing several TIP submissions, revisions, votes and retractions, which lead to larger conversations about voting and governance processes within the group. TIP-24 increases the Telos Founders Rewards Pool from 6 million to 18 million TLOS due to the larger number of contributors and much longer time scale than originally anticipated. TIP-3 establishes that Telos will provide ongoing snapshots of the Telos “original” snapshot 29 days after activation and ongoing recent snapshots as the network progresses. The aim of this is to provide a central repository to preserve system resources and not place the burden of snapshots on the Dapps performing airdrops. This is expected to greatly reduce the cost of performing full airdrops on Telos, especially in conjunction with the features of TIP-5 standard tokens. The TIP-5 token standard was also formally adopted. It has been in use for nearly two months on the Telos testnet and EOS mainnet. TIP-27 proposes giving the Telos Foundation RAM Administration Director the ability to purchase RAM early and release it to the network later in order to avoid an initial spike in RAM prices. It was defeated but will be re-voted in a revised form on Friday, November 2.
+Telos 上线贡献组本周大部分时间都在讨论几个 TIP 的提交、修订、投票和撤回的问题, 这些内容讨论了关于投票和治理流程。 TIP-24 将 Telos 创办人奖励池从600万增加到1 800万 TLOS, 原因是超出预期贡献者人数, 和所花时间比原先预计的要长得多。 TIP-3 规定随着区块链的发展, Telos 将在激活29天后提供 Telos "原始" 快照的持续快照和随日期更新的最新快照。 这样做的目的是提供一个中央代码存储库, 以储存系统资源, 而不是将快照的负担留给执行空投的dapp 上。 预计这将大大降低在 Telos 上执行全地址空投的成本, 特别是在与 TIP-5 标准代币的功能结合使用时。 TIP-5 代币标准已经被正式采用。 它已经在 Telos 测试网络和 EOS 主网上使用了近两个月。 TIP-27 建议让 Telos 基金会 RAM 管理负责人能够尽早购买 RAM 并在以后将其发布到网络上, 以避免 RAM 价格的最初飙升。 它之前没有投票通过, 但它已经被相应修改，并将在11月2日星期五被重新投票。
 
-Read the full October 26th report on TIPs 24–26 here: https://medium.com/@teloslogical/press-release-tips-report-for-october-26-2018-99e65917a9cb
+阅读完整内容：https://medium.com/@teloslogical/press-release-tips-report-for-october-26-2018-99e65917a9cb
 
-TIP-03. Establishment of common-use snapshots for airgrabs. Approved with a vote of: Yes-27, Abstain-6, No-0.
+TIP-03. 建立用于空投抓取（airgrab）的常用快照。 以表决结果: 同意-27, 弃权-6, 反对-0。
 
 https://github.com/Telos-Foundation/tips/blob/master/tip-0003.md
 
-TIP-05: Single Token Registry Standard. Passed with a vote of: Yes-27, No-0, Abstain-0.
+TIP-05: 单代币注册标准。 全票通过: 同意-27, 反对 0, 弃权-0.。
 
 https://github.com/Telos-Foundation/tips/blob/master/tip-0005.md
 
-TIP-27: A controlled RAM launch on Telos. Not approved with a vote of: Yes-20, Abstain-11, No-4.
+TIP-27: 在 Telos 上线时控制内存。 未以票数获得批准: 同意-20、弃权-11、反对-4。
 
 https://github.com/Telos-Foundation/tips/blob/master/tip-0027.md
 
 4. 开发更新
 
-Calculating missed blocks v.2 has been implemented by Ed Silva and is being tested by the launch directors and ABPs. If deemed acceptible, this will add a new green checkmark to the launch page.
+计算错失生产的区块v.2版本已经由Ed Silva完成, 并正在由上线总监和 ABP 进行测试。 如果测试通过, 这将在上线页面中添加一个新的绿色标记。
 
-A bug was discovered during a Stagenet test that caused issues with schedule production, and was actually the side effect of another bug in which ‘onblock’ fails to execute under specific conditions. Ed Silva and Peter Bue of GoodBlock and Madalin Barbulescu of Amplified Telos resolved the issues by creating a new ‘dev2.7.1’ release.
+在 上线预览网络（Stagenet） 测试中发现了一个 bug, 它会影响生产日程, 实际上是另一个 bug 的副作用, 在该 bug 中, "onblock" 在特定条件下无法执行。 GoodBlock的Ed Silva和Peter Bue以及Amplified Telos的Madalin Barbulescu通过创建新的 "dev2.7.1" 版本解决了这些问题。
 
-The Telos development team is currently merging system contracts into the newly forked ‘eosio.contracts’ repository. This new repository uses the ‘eosio.cdt’. The most recent release of the EOSIO CDT has many breaking changes. This shift to the ‘eosio.contracts’ repository will require the Telos developing team to refactor our contracts. However, this should be a one-time change that puts the Telos code in a position for faster code updates going forward.
+Telos 开发团队目前正在将系统合同合并到新分叉的 "eosio.contract" 代码库中。 这个新的代码库使用 "eosio. cdt"。 最近发布的 EOSIO CDT 有许多突破性（代码向前不兼容）的变化。 这种向 "eosio.contracts" 代码库的转变将需要 Telos 开发团队重构我们的合同。 但是，这应该是一次性更改，使Telos代码将来能够更快地进行代码更新。
 
 5. IPFS集群成立
 
-Several Telos contributors are working on implementing IPFS — the interplanetary file system, which is a blockchain-friendly form of decentralized yet secure storage. This has been expected on EOSIO for some time, but is not yet implemented. Because several Telos governance functions such as worker proposals and ratify/amend proposals require IPFS, TLG members are working to implement it now. This will be an enormous benefit to Dapp developers who are also eager to have this tool at their disposal.
+几个Telos贡献者正致力于实施IPFS - 星际文件系统，这是一种分区友好的分散式而安全的存储形式。 这已经在EOSIO上预期了一段时间，但尚未实施。 由于多个Telos治理功能（如工作者提案和批准/修改提案）需要IPFS，因此TLG成员正在努力实施它。 这对Dapp开发人员来说是一个巨大的好处，他们也渴望拥有这个工具。
 
-Marlon Williams of EOS Miami first implemented an IPFS server in order to implement and test voting features in the Sqrl wallet. Stephanie Sunshine of GoodBlock started an IPFS cluster on its local network of 8 nodes that all interconnect, propagate and heal correctly. IPFS can be created as single instances, clusters, or clusters of clusters. Marlon and Stephanie have created single instances and now clusters. Stephanie is currently developing an EOSIO-friendly process for building a “cluster of clusters” to which many Telos BPs and others may connect nodes and clusters. This will give Telos a functional and robust IPFS implementation that no other EOSIO chain currently has.
+EOS Miami的Marlon Williams首先实施了一个IPFS服务器，以便在Sqrl钱包中实现和测试投票功能。 GoodBlock的Stephanie Sunshine在其本地的8个节点上启动了一个IPFS集群，这些节点都可以正确地互连，传播和修复。 IPFS可以创建用一下方式创建：单个实例，集群或集群的集群。 Marlon和Stephanie芬妮创造了单一实例的IPFS, 现在已经升级到集群。 Stephanie目前正在开发一个 EOS 友好的进程, 以建立一个 "集群的集群", 届时许多 telos BP 和其他人就可以连接节点和集群。 这将为 Telos 提供一个功能完善和强大的 IPFS, 而这是目前任何其他 EOSIO 链所没有的。
 
-Learn how to join the Telos IPFS testnet here: https://gist.github.com/StephanieSunshine/92a3af3fc8577103906ff8142a4349f5
+查看完整信息: https://gist.github.com/StephanieSunshine/92a3af3fc8577103906ff8142a4349f5
 
 6. 社区奖励计划提交
 
-Note: The sign-up time for the Telos Community Rewards Pool program will be ending Nov. 6th.
+注意：Telos社区奖励池计划的注册时间将于11月 6日结束。
 
-If you are participating in the Telos Community Rewards Pool program, make sure that you are properly compensated for your time and efforts to spread the word about Telos. After the Telos network is activated, participants will have one week to compile their logged contributions into a single submission form that will be available on the Community Rewards Program web page.
+如果您正在参加Telos社区奖励池计划，请确保您完整记录了你所花的时间和努力来传播有关Telos的信息。 在激活Telos网络后，参与者将有一周的时间将他们记录的贡献汇编成一个提交表单，该表单将在社区奖励计划网页上提供。
 
-Learn more about the Community Rewards Program here: https://telosfoundation.io/rewards
+在此处了解有关社区奖励计划的更多信息：https://telosfoundation.io/rewards
 
-Check out the Telegram channel to ask questions, resolve technical issues, and meet other community members: https://t.me/teloscommunityrewardsgroup
+查看对应的电报频道，提出问题，解决技术问题，并认识其他社区成员：https://t.me/teloscommunityrewardsgroup
 
 7. Sharedrop代币恢复提交
 
-Are you an EOS genesis snapshot token holder but lost your keys or otherwise had them compromised? Fortunately, you can still get your Telos sharedrop through our token recovery program. Submissions have nearly doubled in the last week, so make sure that you sign up before the program ends at the network launch date.
+你的EOS创始快照代币持有者，但丢失了您的密钥或密钥被盗？ 幸运的是，您仍然可以通过我们的代币恢复程序获得您的Telos。 代币回复提交的数量与上周比几乎翻了一番，因此请确保在程序结束前完成注册。
 
 Read more about Token Recovery here: https://telosfoundation.io/recovery
 
 8. 新的网站与白皮书翻译
 
-Translating important organizational documents is critical to expanding Telos’ global community. The Telos Launch Group recently released website translations in Spanish, Portuguese and Russian, and translated the white paper into Russian as well.
+翻译重要的组织文件对于扩展Telos的全球社区至关重要。 Telos 上线团队最近发布了西班牙语，葡萄牙语和俄语的网站翻译，并将白皮书翻译成俄文。
 
-Check out the Telos Foundation website, which has now been translated into 10 languages: https://telosfoundation.io/
+查看我们网站：https://telosfoundation.io/
