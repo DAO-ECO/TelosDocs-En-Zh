@@ -2,24 +2,24 @@
 
 时光虽如箭，却赶不上EOSIO前进的脚步。自从我宣布成为EOS主网候选节点的那一刻起(参见 https://medium.com/eosbarcelona/ntroducing-eosbarcelona-d501086b5a19) 一场旋风般的冒险之旅就此展开。随着EOS的世界逐渐发展壮大，我有幸认识了不少志同道合的朋友，提高了自身的技术和修养 几个月前，我并未预料到EOS的生态会发展得如此迅速。一如突破新境界的武林高手，眨眼间陡增两年的功力。 自EOS主网上线以来，我接触到了很多令人大开眼界的事物， Telos这个分叉就是其中之一。
 
-I am proud to have joined the Telos team and continue this incredible adventure into delegated proof of stake and EOSIO. I was wowed by the technology of EOS… the speed, the transactional capabilities, the possibilities it brought to blockchain… and now I have landed in a fantastic continuation of the adventure and into the Telos ecosystem as I announce my candidacy as a Telos Block Producer.
+我很自豪能够成为Telos团队的一员，得以在EOSIO和委托权益共识算法(DPOS)的基础上，继续这个令人难以置信的冒险之旅。 我被EOS的底层技术优势震撼了：低延迟，高吞吐量，以及它通过智能合约给区块链世界带来的无限可能。在不断深入了解Telos生态的奇妙旅行中，我宣布参选Telos的超级节点。
 
-Being a Block Producer carries great responsibility. Responsibilities only delegated to those with strong moral magnitude, community spirit, and most importantly of all, transparency. I take these responsibilities head on as any quality block producer should which is why I am outlining my full and honest disclosure in this brief document.
+成为一名超级节点需要承担巨大的责任，而这些责任只能托付给那些道德高尚，具有社区精神的人。 超级节点最被珍视的品质是：公正透明 就像其它高质量的候选节点一样，我会勇于担负起这些责任。在这篇简文中，我将详细并诚实地作出我的公开声明。
 
 ![](https://cdn-images-1.medium.com/max/1000/1*ywCLrBOZ_Ogv3j81_WjbDg.jpeg)
 
-I, Josep Rosich, am the sole proprietor of EOS Barcelona, owning the Block Producer node in entirety. I am completely self funded and no other interests or ownership stake exists.
+我，Josep Rosich，是EOS Barcelona(EOS 巴塞罗那) 的唯一所有人，并完全掌握这个节点 我自筹资金，节点的开支全部自费。我没有任何在其他机构中的利益或股权。
 
-Since I have joined the Telos project my infrastructure has evolved significantly. Wanting to be as secure and reliable as possible EOS Barcelona has bare-metal servers in Germany and Finland. All our servers use 100% green energy coming from hydropower or wind power sources which makes us fairly unique in the sense that we aim to reduce environmental impacts of our activities to the highest degree possible while keeping safety and security at the top of our priority list.
+自从我加入Telos这个项目以来，我的硬件基础设施得到了很大发展。 为了最大限度地追求安全性和可靠性，EOS Barcelona在德国和芬兰都设有自己的裸金属服务器。 我们所有的服务器都使用100%来自水力和风力的绿色能源。这使我们的节点独一无二：以尽可能降低出块对环境产生的负面影响为前提，把主侧链的安全保障放在首要位置。
 
-Additionally, EOS Barcelona recognises the need to scale in an ever growing Ecosystem so I am planning to hire two engineers to manage the infrastructure and foster tools and projects for the community in order to contribute and be a positive force within the Telos Ecosystem. I will hire advisors and contractors whenever they might be needed to fulfil various tasks as required in order to grow, succeed, and prosper. The full disclosure of current infrastructure can be found here should someone be curious about the specifics: <https://eos.barcelona/#infrastructure>
+此外，EOS Barcelona意识到要在这个不断繁荣的生态系统中扩展阵容的必要性。我计划聘请两名工程师来管理我们的硬件基础设施，以及为社区培养可以给Telos生态系统贡献积极力量的工具和项目。 在必要的时候，我将聘请顾问和承包商来完成那些可以使我们成长，成功并繁荣的任务。 如果你对细节感兴趣，可以参考我们硬件基础设施的详细信息：https://eos.barcelona/#infrastructure
 
-And I will ensure I update it as needed to retain honesty and transparency as any good block producer would.
+就像其它负责的节点一样，我会及时更新以上的硬件信息，以保障我们的诚实和透明度。
 
-I look forward to working with my colleagues to build a better, brighter future for Telos, the ecosystem as a whole, myself and all I encounter.
+我期待与我的同事共同携手，为Telos，为整个生态系统，为我自己，也为我所邂逅的一切，创造一个更美好、更光明的未来。
 
-I aim to continue to operate with integrity, respect, and due diligence in all things related to Telos, EOS and my Block producing activities.
+在我参与的任何与Telos，EOS主网和出块有关的活动里，我会尽我所能保持诚信、尊重，并在做出重要决策前尽职调查。
 
-Respectfully yours,
+此致敬礼，
 
 Josep Rosich
