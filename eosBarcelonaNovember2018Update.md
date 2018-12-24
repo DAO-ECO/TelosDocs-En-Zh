@@ -1,5 +1,7 @@
 # eosBarcelona November 2018 Update
 
+![](https://cdn-images-1.medium.com/max/1000/1*gARpnoR51xV52d7Wz6ClMA.png)
+
 Life Moves Fast, EOSIO moves faster… It’s been a whirlwind adventure since I announced my candidacy as an EOS Main Net BP (see my original post here <https://medium.com/eosbarcelona/ntroducing-eosbarcelona-d501086b5a19>). The space has grown, I have been fortunate enough to meet a lot of good people, a lot of great friends as well as grow with it as a person and a technologist alike. I never anticipated things would move as swiftly as they have, but in this space, a blink of an eye often seems like two years. Since the launch of EOS, I have been exposed to a lot amazing things. Telos is clearly one of those things.
 
 I am proud to have joined the Telos team and continue this incredible adventure into delegated proof of stake and EOSIO. I was wowed by the technology of EOS… the speed, the transactional capabilities, the possibilities it brought to blockchain… and now I have landed in a fantastic continuation of the adventure and into the Telos ecosystem as I announce my candidacy as a Telos Block Producer.
