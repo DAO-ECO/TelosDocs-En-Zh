@@ -12,7 +12,7 @@ Being a Block Producer carries great responsibility. Responsibilities only deleg
 
 I, Josep Rosich, am the sole proprietor of EOS Barcelona, owning the Block Producer node in entirety. I am completely self funded and no other interests or ownership stake exists.
 
-Since I have joined the Telos project my infrastructure has evolved significantly. Wanting to be as secure and reliable as possible EOS Barcelona has bare-metal servers in Germany and Finland. All our servers use 100% green energy coming from hydropower or wind power sources which makes us fairly unique in the sense that we aim to reduce environmental impacts of our activities to the highest degree possible while keeping safety and security at the top of our priority list.
+自从我加入Telos这个项目以来，我的硬件基础设施得到了很大发展。 为了最大限度地追求安全性和可靠性，EOS Barcelona在德国和芬兰都设有自己的裸金属服务器。 我们所有的服务器都使用100%来自水力和风力的绿色能源。这使我们的节点独一无二：以尽可能降低出块对环境产生的负面影响为前提，把主侧链的安全保障放在首要位置。
 
 Additionally, EOS Barcelona recognises the need to scale in an ever growing Ecosystem so I am planning to hire two engineers to manage the infrastructure and foster tools and projects for the community in order to contribute and be a positive force within the Telos Ecosystem. I will hire advisors and contractors whenever they might be needed to fulfil various tasks as required in order to grow, succeed, and prosper. The full disclosure of current infrastructure can be found here should someone be curious about the specifics: <https://eos.barcelona/#infrastructure>
 
