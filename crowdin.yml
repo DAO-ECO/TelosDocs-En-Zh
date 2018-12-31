@@ -1,0 +1,8 @@
+files:
+  - source: /*.md
+    translation: /%language%/%file_name%_%language%.%file_extension%
+    languages_mapping:
+      language:
+        en: en-US
+        zh-CN: zh-CN
+        zh-HK: zh-HK
