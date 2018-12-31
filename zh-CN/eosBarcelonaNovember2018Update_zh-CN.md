@@ -1,4 +1,4 @@
-# eOS 巴塞罗那简介（2018年11月更新）
+# eos 巴塞罗那简介（2018年11月更新）
 
 ![](https://cdn-images-1.medium.com/max/1000/1*gARpnoR51xV52d7Wz6ClMA.png)
 
