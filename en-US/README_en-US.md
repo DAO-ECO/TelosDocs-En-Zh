@@ -9,7 +9,7 @@ Telos中文翻译组是由Telos候选节点翻译工作人员和其他独立中�
 Telos中文翻译组的工作平台为：**github.com + crowdin.com**
 
 - Github库：https://github.com/DAO-ECO/TelosDocs-En-Zh
-  
+    
     Master分支：根目录文件连接到Crowdin，自动同步到翻译文档列表。
     
     Translater分支：Crowdin将翻译成中文的文件同步到这个分支，并自动生成Request。
@@ -21,7 +21,7 @@ Telos中文翻译组的工作平台为：**github.com + crowdin.com**
     en_US文件夹：存放翻译成英文的文档。
 
 - Crowdin项目：https://crowdin.com/project/telosdocs-en-zh
-  
+    
     为确保文档库完整，加入到翻译组的候选节点在Github库（Repository）将有一个以其节点名称命名的分支。每个节点起码有一名翻译组成员拥有修改和合并Master分 支的权限。标准协作流程：
     
     1. 将需要翻译的文档以Markdown格式放置到Github库的根目录；
